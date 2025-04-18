@@ -21,10 +21,19 @@ const isHappeningNow = (meeting) => {
 
 const renderMeeting = (meeting) => {
     const container = document.getElementById('meetings-container');
+
     const div = document.createElement('div');
+    div.classList.add('meeting');
 
     const name = document.createElement('h2');
-    name.textContent = meeting.name;
+    const nameLink = document.createElement('a');
+    nameLink.href = meeting.link;
+    nameLink.target = "_blank";
+    nameLink.rel = "noopener noreferrer";
+    nameLink.textContent = meeting.name;
+    nameLink.style.textDecoration = "none";
+    nameLink.style.color = "#000";
+    name.appendChild(nameLink);
 
     const platform = document.createElement('p');
     platform.textContent = `Plataforma: ${meeting.platform}`;
@@ -38,7 +47,6 @@ const renderMeeting = (meeting) => {
 
     container.appendChild(div);
 };
-
 const loadMeetings = async () => {
     try {
         const response = await fetch('meetings.json');
