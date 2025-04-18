@@ -1,8 +1,27 @@
 /* app.js ─ versão 2024‑04‑19 */
+// app.js
+function nowBrazil() {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'America/Sao_Paulo',
+    hour12: false,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit'
+  })
+  .formatToParts(new Date())
+  .reduce((acc, part) => {
+    acc[part.type] = part.value;
+    return acc;
+  }, {});
 
+  return new Date(`${parts.year}-${parts.month}-${parts.day}T${parts.hour}:${parts.minute}:${parts.second}`);
+}
 /* ───────── helpers ────────────────────────────────────────── */
 const pad     = n => String(n).padStart(2, "0");
-const now     = () => new Date();              // usa hora do navegador
+const now = nowBrazil();             // usa hora do navegador
 const weekday = () => now().getDay();          // 0‑6   (dom=0)
 
 // "HH:MM:SS" → minutos desde 00:00
