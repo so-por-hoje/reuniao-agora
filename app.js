@@ -48,6 +48,7 @@ const renderMeeting = (meeting) => {
 const loadMeetings = async () => {
     try {
         const response = await fetch('meetings.json');
+        console.log("meetings.json loaded");
         const data = await response.json();
 
         const now = currentTime();
