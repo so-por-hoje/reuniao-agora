@@ -1,17 +1,32 @@
 <!-- index.html -->
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8">
-  <title>Reuniões NA – Agora</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <title>Reuniões Virtuais</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+    }
+
+    .meeting {
+      margin: 1rem 0;
+      padding: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background: #f9f9f9;
+    }
+  </style>
 </head>
 <body>
-  <main>
-<h1>Reuniões virtuais acontecendo</h1>
-<div id="meetings-container"></div>    <ul id="list"></ul>
-  </main>
-  <script type="module" src="app.js"></script>
+  <h1>Reuniões virtuais acontecendo</h1>
+  <div id="meetings-container"></div>
+
+  <script src="app.js"></script>
 </body>
 </html>
