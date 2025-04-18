@@ -4,4999 +4,4031 @@
     "weekday": 1,
     "start": "00:05:00",
     "end": "04:05:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/9600627555?pwd=eAWhOMksmdd10eIW9dH9aoFJeNM3E4.1"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 1,
     "start": "00:30:00",
     "end": "02:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Noite Adentro (NA)",
     "weekday": 1,
     "start": "01:00:00",
     "end": "03:00:00",
-    "platform": "F,VM,OLM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/83215273095?pwd=sGHm6iprkVcLHUjI4XdCaflQmObIHU.1"
   },
   {
     "name": "Reunião Grupo Insônia na Recuperação",
     "weekday": 1,
     "start": "02:00:00",
     "end": "04:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Conexão Matinal de NA",
     "weekday": 1,
     "start": "04:30:00",
     "end": "06:30:00",
-    "platform": "F,RC,VM,QER",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Novo Dia",
     "weekday": 1,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221?pwd=TkQyOXNsL0pqQUdMeWVtcXJRV2dLdz09"
   },
   {
     "name": "Reunião Grupo Virtual Desperta Rio Grande de NA",
     "weekday": 1,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9997771988?pwd=TVZ4MGgyMTJyVDlFMEtUdUhUZWk5dz09"
   },
   {
     "name": "Reunião Grupo Café com NA",
     "weekday": 1,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Conquista Sem Fronteiras",
     "weekday": 1,
     "start": "07:00:00",
     "end": "08:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/3495411790"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 1,
     "start": "07:00:00",
     "end": "08:50:00",
-    "platform": "A,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Virtual",
     "weekday": 1,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Despertar",
-    "weekday": 1,
-    "start": "07:00:00",
-    "end": "09:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 1,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,LSPH",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 1,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 1,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 1,
     "start": "07:30:00",
     "end": "09:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Espiritualidade",
     "weekday": 1,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 1,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 1,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Caminho dos Passos",
     "weekday": 1,
     "start": "09:00:00",
     "end": "10:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9111907777"
   },
   {
     "name": "Reunião Grupo Bom dia Brasil",
     "weekday": 1,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 1,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Imbui",
     "weekday": 1,
     "start": "09:30:00",
     "end": "11:30:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/91640588499?pwd=d1NyWG1wcFN2d1RHUXpHNlNsMkpEUT09"
   },
   {
     "name": "Reunião Grupo Por que estamos aqui?",
     "weekday": 1,
     "start": "09:30:00",
     "end": "11:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/91640588499?pwd=d1NyWG1wcFN2d1RHUXpHNlNsMkpEUT09"
   },
   {
     "name": "Reunião Grupo Santa Inês de NA",
     "weekday": 1,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/3058272888?pwd=MHIWU0ZwNTcrR1FxekdETUVrOxjldz09"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 1,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 1,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 1,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Santa Inês de NA",
     "weekday": 1,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,TP,CadT,CAR,HY,FuF",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/3058272888?pwd=MHlWU0ZwNTcrR1FxekdETUVrOXJLdz09"
   },
   {
     "name": "Reunião Grupo Novo Belo Horizonte",
     "weekday": 1,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2176700817?pwd=kmdb0AmXLAeGCU8IVAB36mDtHgbaoL.1&omn=86183554030"
   },
   {
     "name": "Reunião Grupo Virtual Para-NA",
     "weekday": 1,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/89289372940?pwd=MnE2VVd3ZnNUd3NLakJaaUcrV2ZRZz09"
   },
   {
     "name": "Reunião Grupo Ajuri",
     "weekday": 1,
     "start": "11:00:00",
     "end": "13:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo @nabr",
-    "weekday": 1,
-    "start": "12:00:00",
-    "end": "13:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9991111953"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 1,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo GATA",
     "weekday": 1,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,TM,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Virtual Meio-dia",
     "weekday": 1,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 1,
     "start": "12:30:00",
     "end": "14:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Unidos Venceremos",
-    "weekday": 1,
-    "start": "14:00:00",
-    "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Fênix",
     "weekday": 1,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/89289487374?pwd=vlF6ea0bMB8adJ72xn0alig4jdxmr4.1"
   },
   {
     "name": "Reunião Grupo Virtual Bom Retiro",
     "weekday": 1,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 1,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "F,CadP,CAR,HY,FuF,EGP",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 1,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo 16:00 Quebrando Fronteiras",
     "weekday": 1,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/9933455789?pwd=DyiusQ4z6hfIV6wkmKiXnxl2n2iPVW.1"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 1,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TM,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Santa Cecília",
-    "weekday": 1,
-    "start": "17:00:00",
-    "end": "19:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 1,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 1,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,TP,CAR,VM,LGBTQIAPN+",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Campo Santo",
     "weekday": 1,
     "start": "17:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,CadP,CAR,HY,FuF",
-    "link": ""
+    "link": "https://zoom.us/j/94739009084?pwd=UWZVbFZMZFo3MXV2TkNwQ0tnTzBwZz09"
   },
   {
     "name": "Reunião Grupo Vida Livre",
     "weekday": 1,
     "start": "17:30:00",
     "end": "19:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 1,
     "start": "17:30:00",
     "end": "19:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Elas",
     "weekday": 1,
     "start": "18:00:00",
     "end": "19:30:00",
-    "platform": "F,IF,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5319653538?pwd=bmxFeHRsODFodmF2ZFQvbGFYNGYrdz09"
   },
   {
     "name": "Reunião Grupo Unidade & Propósito Roraima",
     "weekday": 1,
     "start": "18:00:00",
     "end": "19:30:00",
-    "platform": "F,TP,EL,VM",
-    "link": ""
+    "link": "http://zoom.us/j/91640588499?pwd=d1NyWG1wcFN2d1RHUXpHNlNsMkpEUT09"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 1,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Resiliência",
     "weekday": 1,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8796589210?pwd=paqApvx5fXKRbCUl74fAyvaw7KqUgO.1"
   },
   {
     "name": "Reunião Grupo Novo Mundo",
     "weekday": 1,
     "start": "18:30:00",
     "end": "20:30:00",
-    "platform": "TM,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/3848846526?pwd=dnNsZm9wV2V1MWplSHF3R0srSjFOUT09"
   },
   {
     "name": "Reunião Grupo Abraço Virtual On-line",
     "weekday": 1,
     "start": "18:30:00",
     "end": "20:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/6081264314?pwd=d2l1Q1MvZnJ3OXpDeDIrQmNLd0xYdz09"
   },
   {
     "name": "Reunião Grupo Liberdade",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,EPO",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2109108110?pwd=a3VtOTRndm8xVHZENkdQTlNMcnVPZz09"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Guapi",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM,FuF",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2329659907?pwd=B2bFXr5eNUfwHUVUH2pcoYocWYVPRv.1"
   },
   {
     "name": "Reunião Grupo CSA Baixada",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Navegantes",
-    "weekday": 1,
-    "start": "19:00:00",
-    "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4644108686?pwd=RitNb3pUbHVPRVpmaStYTWR5SnRzZz09"
   },
   {
     "name": "Reunião Grupo Glória",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/268275700"
   },
   {
     "name": "Reunião Grupo Renascer",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/2201201953?pwd=bFYvK2k4alRxRzdUOVNzQTh4WDlsQT09"
   },
   {
     "name": "Reunião Grupo Positivos",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/3776684337"
   },
   {
     "name": "Reunião Sistema RAD",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,EGP",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9998886262?pwd=b3RkdG5Fd080ME1Lb3RqcDI3cjJRZz09"
   },
   {
     "name": "Reunião Grupo Recomeço",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Ribeira Virtual",
     "weekday": 1,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2761453307?pwd=Fl3AUBvzBcUMcWafXEjYQcsdSdsVut.1"
   },
   {
     "name": "Reunião Grupo Bem-vindo",
     "weekday": 1,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/89007418194?pwd=c0xza3NncGRrWVdYenlQQzBJRWFLQT09"
   },
   {
     "name": "Reunião Grupo Vila Isabel",
     "weekday": 1,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4736603661"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 1,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Viemos a Acreditar",
     "weekday": 1,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "VM",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Grajaú On-line",
     "weekday": 1,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9133798128?pwd=Q2srSldOMmROdDVkRkc5eXVrL2M0QT09"
   },
   {
     "name": "Reunião Grupo Harmonia",
     "weekday": 1,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "A,ETB,VM,Sent",
-    "link": ""
+    "link": "http://zoom.us/j/9172609611?pwd=Z2p0czRjaGlnYVQyazZjRkl4WDR1Zz09"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 1,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Recuperação de NA Bahia",
     "weekday": 1,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/91640588499?pwd=cTY5anFkWTEvbXBYQXlKZnF3VS84UT09"
   },
   {
     "name": "Reunião Grupo União Canoas On-line",
     "weekday": 1,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/2249928383"
   },
   {
     "name": "Reunião Grupo Só Por Elas",
     "weekday": 1,
     "start": "20:00:00",
     "end": "21:50:00",
-    "platform": "F,IF,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323?pwd=SkRGbTAzL2g1ZGU2VU92TGZ1ZmRqQT09"
   },
   {
     "name": "Reunião Grupo Virtual ZN",
     "weekday": 1,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9072282020"
   },
   {
     "name": "Reunião Grupo Amazônia On-line",
     "weekday": 1,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/85720965799?pwd=OFJMQWt0ekRDU3RFblZ6YVdVTHovQT09"
   },
   {
     "name": "Reunião Grupo Ponto de Equilíbrio",
     "weekday": 1,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,EL,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Ateus e Agnósticos de NA On-line",
     "weekday": 1,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM,AtAg",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/6660001953?pwd=MlgzREJSZmxCTXFMODJZeTJSR0Y1UT09"
   },
   {
     "name": "Reunião Grupo Só Por Hoje Brasil",
     "weekday": 1,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,VM,OC",
-    "link": ""
+    "link": "https://zoom.us/j/439128031"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 1,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Oportunidade ao Sol",
     "weekday": 1,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,ETB,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Igualdade",
-    "weekday": 1,
-    "start": "21:00:00",
-    "end": "22:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8167298474?pwd=dnVGZVQ0a052VUZvOHJSVUFoOW0yQT09"
   },
   {
     "name": "Reunião Grupo Amigos em Recuperação",
     "weekday": 1,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/5767910351?pwd=1IWXVVAsDM3HZ0p526aNhbFnT9rNI9.1"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 1,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,CAR,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5ª Tradição",
-    "weekday": 1,
-    "start": "21:00:00",
-    "end": "23:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Mundo Sem Fronteiras",
     "weekday": 1,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,VM,OLM",
-    "link": ""
+    "link": "https://zoom.us/j/6592297438?pwd=K1VZWllxWGkyS2d6SkVGeVJIMjBoUT09"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 1,
     "start": "21:30:00",
     "end": "23:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 1,
     "start": "22:00:00",
     "end": "23:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Boa Noite Nordeste",
     "weekday": 1,
     "start": "22:00:00",
     "end": "23:30:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Garage",
     "weekday": 1,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/458415245?pwd=TE9oNCtUdXlYbTJTZmNmK2ZRWndzUT09"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 1,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TM,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Recreio On-line",
     "weekday": 1,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/84709392930"
   },
   {
     "name": "Reunião Grupo Pedra do Pontal",
     "weekday": 1,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9133798128"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 1,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Adictos Jandira & Itapevi",
-    "weekday": 1,
-    "start": "22:00:00",
-    "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 1,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Baixada Sem Fronteiras",
     "weekday": 1,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7973245651"
   },
   {
     "name": "Reunião Grupo Corujão Brasil",
     "weekday": 1,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/9991111953"
   },
   {
     "name": "Reunião Grupo Virtual Madrugada",
     "weekday": 2,
     "start": "00:05:00",
     "end": "04:05:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/9600627555?pwd=eAWhOMksmdd10eIW9dH9aoFJeNM3E4.1"
   },
   {
     "name": "Reunião Grupo Noite Adentro (NA)",
     "weekday": 2,
     "start": "01:00:00",
     "end": "03:00:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/83215273095?pwd=sGHm6iprkVcLHUjI4XdCaflQmObIHU.1"
   },
   {
     "name": "Reunião Grupo Insônia na Recuperação",
     "weekday": 2,
     "start": "02:00:00",
     "end": "04:00:00",
-    "platform": "F,TP,ECAR,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Conexão Matinal de NA",
     "weekday": 2,
     "start": "04:30:00",
     "end": "06:30:00",
-    "platform": "F,RC,VM,QER",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Novo Dia",
     "weekday": 2,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221?pwd=TkQyOXNsL0pqQUdMeWVtcXJRV2dLdz09"
   },
   {
     "name": "Reunião Grupo Virtual Desperta Rio Grande de NA",
     "weekday": 2,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9997771988?pwd=TVZ4MGgyMTJyVDlFMEtUdUhUZWk5dz09"
   },
   {
     "name": "Reunião Grupo Café com NA",
     "weekday": 2,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Conquista Sem Fronteiras",
     "weekday": 2,
     "start": "07:00:00",
     "end": "08:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/3495411790"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 2,
     "start": "07:00:00",
     "end": "08:50:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Virtual",
     "weekday": 2,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,Nv",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Despertar",
-    "weekday": 2,
-    "start": "07:00:00",
-    "end": "09:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 2,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,Nv",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 2,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 2,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 2,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 2,
     "start": "07:30:00",
     "end": "09:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Espiritualidade",
     "weekday": 2,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 2,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 2,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Sistema RAD",
     "weekday": 2,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "F,EVL,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9998886262?pwd=b3RkdG5Fd080ME1Lb3RqcDI3cjJRZz09"
   },
   {
     "name": "Reunião Grupo Bom dia Brasil",
     "weekday": 2,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 2,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Por que estamos aqui?",
     "weekday": 2,
     "start": "09:30:00",
     "end": "11:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/91640588499?pwd=d1NyWG1wcFN2d1RHUXpHNlNsMkpEUT09"
   },
   {
     "name": "Reunião Grupo Nova União Praias",
     "weekday": 2,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5575100432?pwd=cTBpSk1hQ3BmK3BsTEdSYkdUYW9aZz09"
   },
   {
     "name": "Reunião Grupo Virtual Para-NA",
     "weekday": 2,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/89289372940?pwd=MnE2VVd3ZnNUd3NLakJaaUcrV2ZRZz09"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 2,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 2,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 2,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo Juntos Podemos SPH",
     "weekday": 2,
     "start": "11:30:00",
     "end": "13:30:00",
-    "platform": "VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Santo Amaro",
     "weekday": 2,
     "start": "12:00:00",
     "end": "13:00:00",
-    "platform": "A,EVL,VM,LIBRAS",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/83972852271"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 2,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Virtual Meio-dia",
     "weekday": 2,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 2,
     "start": "12:30:00",
     "end": "14:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Unidos Venceremos",
-    "weekday": 2,
-    "start": "14:00:00",
-    "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Fênix",
     "weekday": 2,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/89289487374?pwd=vlF6ea0bMB8adJ72xn0alig4jdxmr4.1"
   },
   {
     "name": "Reunião Grupo Virtual Bom Retiro",
     "weekday": 2,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 2,
     "start": "14:30:00",
     "end": "16:00:00",
-    "platform": "A,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 2,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Espiritualidade",
     "weekday": 2,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "A,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Caminho dos Passos",
     "weekday": 2,
     "start": "16:00:00",
     "end": "17:30:00",
-    "platform": "A,EP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9111907777"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 2,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 2,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Os Laços Que Nos Unem",
     "weekday": 2,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/5352805398?pwd=bSRL1uucpyRLEPoIrLjAvlKizccuqV.1"
   },
   {
     "name": "Reunião Grupo GATA",
     "weekday": 2,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,EP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Santa Cecília",
-    "weekday": 2,
-    "start": "17:00:00",
-    "end": "19:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 2,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,TP,CAR,VM,LGBTQIAPN+",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo União",
     "weekday": 2,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8332144243?pwd=MHQ5RUpOQ3RVckRpSTZtNitqY3RBQT09"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 2,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Novo Belo Horizonte",
     "weekday": 2,
     "start": "17:30:00",
     "end": "18:30:00",
-    "platform": "F,EVL,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2176700817?pwd=kmdb0AmXLAeGCU8IVAB36mDtHgbaoL.1&omn=86183554030"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 2,
     "start": "17:30:00",
     "end": "19:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo @nabr",
-    "weekday": 2,
-    "start": "18:00:00",
-    "end": "19:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Nova Era",
     "weekday": 2,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/88614819314?pwd=roDKk2CJiYbjj87c6ZYEsW8bRsyoty.1"
   },
   {
     "name": "Reunião Grupo Resiliência",
     "weekday": 2,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8796589210?pwd=paqApvx5fXKRbCUl74fAyvaw7KqUgO.1"
   },
   {
     "name": "Reunião Grupo Unidade Auxiliadora",
     "weekday": 2,
     "start": "18:30:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/2249928383"
   },
   {
     "name": "Reunião Grupo CSA Baixada",
     "weekday": 2,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4644108686?pwd=RitNb3pUbHVPRVpmaStYTWR5SnRzZz09"
   },
   {
     "name": "Reunião Grupo Recomeço",
     "weekday": 2,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Navegantes",
-    "weekday": 2,
-    "start": "19:00:00",
-    "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Glória",
     "weekday": 2,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,EP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/268275700"
   },
   {
     "name": "Reunião Grupo Renascer",
     "weekday": 2,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/2201201953?pwd=bFYvK2k4alRxRzdUOVNzQTh4WDlsQT09"
   },
   {
     "name": "Reunião Grupo Recuperasurf",
     "weekday": 2,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7769527148?pwd=aUhtcC9qL0U3MzVubXZMZkRSaTNlUT09"
   },
   {
     "name": "Reunião Grupo Liberdade",
     "weekday": 2,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2109108110?pwd=a3VtOTRndm8xVHZENkdQTlNMcnVPZz09"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 2,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Ribeira Virtual",
     "weekday": 2,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2761453307?pwd=Fl3AUBvzBcUMcWafXEjYQcsdSdsVut.1"
   },
   {
     "name": "Reunião Grupo Litoral",
     "weekday": 2,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5679991297"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 2,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Grajaú On-line",
     "weekday": 2,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9133798128?pwd=Q2srSldOMmROdDVkRkc5eXVrL2M0QT09"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 2,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Vila Isabel",
     "weekday": 2,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,ETB,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4736603661"
   },
   {
     "name": "Reunião Grupo Harmonia",
     "weekday": 2,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,VM,Sent,EIP",
-    "link": ""
+    "link": "http://zoom.us/j/9172609611?pwd=Z2p0czRjaGlnYVQyazZjRkl4WDR1Zz09"
   },
   {
     "name": "Reunião em LIBRAS",
     "weekday": 2,
     "start": "20:00:00",
     "end": "21:00:00",
-    "platform": "A,TP,VM,LIBRAS",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9992221953?pwd=REJsMmYvWU1vNzRVS2JRdythcCtLUT09"
   },
   {
     "name": "Reunião Grupo Juntos Podemos On-line de NA",
     "weekday": 2,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,EP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9991231953?pwd=RjBDb2lCdXBjTHZvM25GNEJQeC9qUT09"
   },
   {
     "name": "Reunião Grupo Recuperação de NA Bahia",
     "weekday": 2,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,VM,RSPH",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/91640588499?pwd=cTY5anFkWTEvbXBYQXlKZnF3VS84UT09"
   },
   {
     "name": "Reunião Grupo Caminho dos Passos",
     "weekday": 2,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "A,ET,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9111907777"
   },
   {
     "name": "Reunião Grupo Só Por Elas",
     "weekday": 2,
     "start": "20:00:00",
     "end": "21:50:00",
-    "platform": "F,IF,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323?pwd=SkRGbTAzL2g1ZGU2VU92TGZ1ZmRqQT09"
   },
   {
     "name": "Reunião Grupo Só Por Hoje Brasil",
     "weekday": 2,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,EP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/439128031"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 2,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5+2",
-    "weekday": 2,
-    "start": "20:00:00",
-    "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Sistema RAD",
     "weekday": 2,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9998886262?pwd=b3RkdG5Fd080ME1Lb3RqcDI3cjJRZz09"
   },
   {
     "name": "Reunião Grupo Só Por Hoje",
     "weekday": 2,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/92655307013?pwd=am1UOEdvWFlhUVVMdHBQNklQdnFoQT09"
   },
   {
     "name": "Reunião Grupo Despertar",
     "weekday": 2,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,CadP,HY,FuF",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5551320800?pwd=YS9Ock1mZGRRWkdmeHFtbndxKzA5UT09"
   },
   {
     "name": "Reunião Grupo Amazônia On-line",
     "weekday": 2,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/85720965799?pwd=OFJMQWt0ekRDU3RFblZ6YVdVTHovQT09"
   },
   {
     "name": "Reunião Grupo Ponto de Equilíbrio",
     "weekday": 2,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,EL,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Ateus e Agnósticos de NA On-line",
     "weekday": 2,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,VM,AtAg",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/6660001953?pwd=MlgzREJSZmxCTXFMODJZeTJSR0Y1UT09"
   },
   {
     "name": "Reunião Grupo Oportunidade ao Sol",
     "weekday": 2,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TM,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo NA Estrada",
-    "weekday": 2,
-    "start": "21:00:00",
-    "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8167298474?pwd=dnVGZVQ0a052VUZvOHJSVUFoOW0yQT09"
   },
   {
     "name": "Reunião Grupo Amigos em Recuperação",
     "weekday": 2,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,EL,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5ª Tradição",
-    "weekday": 2,
-    "start": "21:00:00",
-    "end": "23:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/5767910351?pwd=1IWXVVAsDM3HZ0p526aNhbFnT9rNI9.1"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 2,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,CAR,VM,LGBTQIAPN+,EGP",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Mundo Sem Fronteiras",
     "weekday": 2,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,VM,OA",
-    "link": ""
+    "link": "https://zoom.us/j/6592297438?pwd=K1VZWllxWGkyS2d6SkVGeVJIMjBoUT09"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 2,
     "start": "21:30:00",
     "end": "23:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Quinta Tradição",
     "weekday": 2,
     "start": "22:00:00",
     "end": "23:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Baixada Sem Fronteiras",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TM,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7973245651"
   },
   {
     "name": "Reunião Grupo Catete",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Corujão Brasil",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/9991111953"
   },
   {
     "name": "Reunião Grupo Garage",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/458415245?pwd=TE9oNCtUdXlYbTJTZmNmK2ZRWndzUT09"
   },
   {
     "name": "Reunião Grupo Sul da Ilha",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4573689331?pwd=dWc1WmVVWUtubnVDdE03bzRIVXN2QT09"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Recreio On-line",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,PS,ET,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/84709392930"
   },
   {
     "name": "Reunião Grupo Pedra do Pontal",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9133798128"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 2,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Dunas On-line",
     "weekday": 2,
     "start": "22:30:00",
     "end": "00:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8395475072"
   },
   {
     "name": "Reunião Grupo Virtual Madrugada",
     "weekday": 3,
     "start": "00:05:00",
     "end": "04:05:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/9600627555?pwd=eAWhOMksmdd10eIW9dH9aoFJeNM3E4.1"
   },
   {
     "name": "Reunião Grupo Noite Adentro (NA)",
     "weekday": 3,
     "start": "01:00:00",
     "end": "03:00:00",
-    "platform": "F,VM,OLM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/83215273095?pwd=sGHm6iprkVcLHUjI4XdCaflQmObIHU.1"
   },
   {
     "name": "Reunião Grupo Insônia na Recuperação",
     "weekday": 3,
     "start": "02:00:00",
     "end": "04:00:00",
-    "platform": "F,TP,ECAR,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Conexão Matinal de NA",
     "weekday": 3,
     "start": "04:30:00",
     "end": "06:30:00",
-    "platform": "F,RC,VM,QER",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Novo Dia",
     "weekday": 3,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221?pwd=TkQyOXNsL0pqQUdMeWVtcXJRV2dLdz09"
   },
   {
     "name": "Reunião Grupo Virtual Desperta Rio Grande de NA",
     "weekday": 3,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9997771988?pwd=TVZ4MGgyMTJyVDlFMEtUdUhUZWk5dz09"
   },
   {
     "name": "Reunião Grupo Café com NA",
     "weekday": 3,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Conquista Sem Fronteiras",
     "weekday": 3,
     "start": "07:00:00",
     "end": "08:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/3495411790"
   },
   {
     "name": "Reunião Grupo Viver Limpo",
     "weekday": 3,
     "start": "07:00:00",
     "end": "08:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4573689331"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 3,
     "start": "07:00:00",
     "end": "08:50:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Virtual",
     "weekday": 3,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,LIP",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Despertar",
-    "weekday": 3,
-    "start": "07:00:00",
-    "end": "09:00:00",
-    "platform": "F,EL,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 3,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,LIP",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 3,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 3,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 3,
     "start": "07:30:00",
     "end": "09:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Espiritualidade",
     "weekday": 3,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 3,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 3,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Bom dia Brasil",
     "weekday": 3,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 3,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Por que estamos aqui?",
     "weekday": 3,
     "start": "09:30:00",
     "end": "11:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/91640588499?pwd=d1NyWG1wcFN2d1RHUXpHNlNsMkpEUT09"
   },
   {
     "name": "Reunião Grupo Nova União Praias",
     "weekday": 3,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5575100432?pwd=cTBpSk1hQ3BmK3BsTEdSYkdUYW9aZz09"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 3,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 3,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo Virtual Para-NA",
     "weekday": 3,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/89289372940?pwd=MnE2VVd3ZnNUd3NLakJaaUcrV2ZRZz09"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 3,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo GATA",
     "weekday": 3,
     "start": "12:00:00",
     "end": "13:30:00",
-    "platform": "F,EP,IF,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 3,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Virtual Meio-dia",
     "weekday": 3,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 3,
     "start": "12:30:00",
     "end": "14:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Unidos Venceremos",
-    "weekday": 3,
-    "start": "14:00:00",
-    "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Fênix",
     "weekday": 3,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/89289487374?pwd=vlF6ea0bMB8adJ72xn0alig4jdxmr4.1"
   },
   {
     "name": "Reunião Grupo Virtual Bom Retiro",
     "weekday": 3,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Juntas Somos Mais Fortes",
     "weekday": 3,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 3,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 3,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Os Laços Que Nos Unem",
     "weekday": 3,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/5352805398?pwd=bSRL1uucpyRLEPoIrLjAvlKizccuqV.1"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 3,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Sistema RAD",
     "weekday": 3,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9998886262?pwd=b3RkdG5Fd080ME1Lb3RqcDI3cjJRZz09"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 3,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,TP,CAR,VM,LGBTQIAPN+",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 3,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Tamo Junto On-line",
     "weekday": 3,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Santa Cecília",
-    "weekday": 3,
-    "start": "17:00:00",
-    "end": "19:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9145284993?pwd=S243QnBPcVdIZjVLdDVoQmU2NXJRUT09"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 3,
     "start": "17:30:00",
     "end": "19:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Nova Era",
     "weekday": 3,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/88614819314?pwd=roDKk2CJiYbjj87c6ZYEsW8bRsyoty.1"
   },
   {
     "name": "Reunião Grupo Resiliência",
     "weekday": 3,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8796589210?pwd=paqApvx5fXKRbCUl74fAyvaw7KqUgO.1"
   },
   {
     "name": "Reunião Grupo Recupera Ilha",
     "weekday": 3,
     "start": "19:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/9279752482?pwd=syBhYor0NxT5PbIxOQhQ0Bdi4PMr65.1"
   },
   {
     "name": "Reunião Grupo Elas",
     "weekday": 3,
     "start": "19:00:00",
     "end": "20:30:00",
-    "platform": "F,IF,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Navegantes",
-    "weekday": 3,
-    "start": "19:00:00",
-    "end": "21:00:00",
-    "platform": "F,TM,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5319653538?pwd=bmxFeHRsODFodmF2ZFQvbGFYNGYrdz09"
   },
   {
     "name": "Reunião Grupo Glória",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/268275700"
   },
   {
     "name": "Reunião Grupo Renascer",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/2201201953?pwd=bFYvK2k4alRxRzdUOVNzQTh4WDlsQT09"
   },
   {
     "name": "Reunião Grupo GATA",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9998886262"
   },
   {
     "name": "Reunião Sistema RAD - Grupo GATA",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,HY,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9998886262?pwd=b3RkdG5Fd080ME1Lb3RqcDI3cjJRZz09"
   },
   {
     "name": "Reunião Grupo Recuperasurf",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7769527148?pwd=aUhtcC9qL0U3MzVubXZMZkRSaTNlUT09"
   },
   {
     "name": "Reunião Grupo Liberdade",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,ET,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2109108110?pwd=a3VtOTRndm8xVHZENkdQTlNMcnVPZz09"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Subcomitês CSA Para-NA",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "HY,SUB-RP",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/87112359359"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Ribeira Virtual",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2761453307?pwd=Fl3AUBvzBcUMcWafXEjYQcsdSdsVut.1"
   },
   {
     "name": "Reunião Grupo União",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8332144243?pwd=MHQ5RUpOQ3RVckRpSTZtNitqY3RBQT09"
   },
   {
     "name": "Reunião Grupo CSA Baixada",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4644108686?pwd=RitNb3pUbHVPRVpmaStYTWR5SnRzZz09"
   },
   {
     "name": "Reunião Grupo Recomeço",
     "weekday": 3,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Subcomitês CSA Norte Catarinense",
-    "weekday": 3,
-    "start": "19:00:00",
-    "end": "21:00:00",
-    "platform": "HY,SUB-RP",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Vida Livre",
     "weekday": 3,
     "start": "19:30:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Grajaú On-line",
     "weekday": 3,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9133798128?pwd=Q2srSldOMmROdDVkRkc5eXVrL2M0QT09"
   },
   {
     "name": "Reunião Grupo Harmonia",
     "weekday": 3,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,ET,VM,Sent",
-    "link": ""
+    "link": "http://zoom.us/j/9172609611?pwd=Z2p0czRjaGlnYVQyazZjRkl4WDR1Zz09"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 3,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Canela Verde",
     "weekday": 3,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2023071153?pwd=SjbUWQN2TcatVfuSFq2EFkcbsirKFx.1"
   },
   {
     "name": "Reunião Grupo Vila Isabel",
     "weekday": 3,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4736603661"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 3,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Recuperação de NA Bahia",
     "weekday": 3,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,EVL,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/91640588499?pwd=cTY5anFkWTEvbXBYQXlKZnF3VS84UT09"
   },
   {
     "name": "Reunião Grupo Juntos Podemos On-line de NA",
     "weekday": 3,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM,EPO",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9991231953?pwd=RjBDb2lCdXBjTHZvM25GNEJQeC9qUT09"
   },
   {
     "name": "Reunião Grupo Caminho dos Passos",
     "weekday": 3,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "A,ETB,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9111907777"
   },
   {
     "name": "Reunião Grupo Só Por Elas",
     "weekday": 3,
     "start": "20:00:00",
     "end": "21:50:00",
-    "platform": "F,IF,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5+2",
-    "weekday": 3,
-    "start": "20:00:00",
-    "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323?pwd=SkRGbTAzL2g1ZGU2VU92TGZ1ZmRqQT09"
   },
   {
     "name": "Reunião Grupo Só Por Hoje Brasil",
     "weekday": 3,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,VM,OC",
-    "link": ""
+    "link": "https://zoom.us/j/439128031"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 3,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Amazônia On-line",
     "weekday": 3,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,EP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/85720965799?pwd=OFJMQWt0ekRDU3RFblZ6YVdVTHovQT09"
   },
   {
     "name": "Reunião Grupo Princípios Orientadores",
     "weekday": 3,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "A,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/6060601953"
   },
   {
     "name": "Reunião Grupo Ponto de Equilíbrio",
     "weekday": 3,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,EL,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Ateus e Agnósticos de NA On-line",
     "weekday": 3,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM,AtAg",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/6660001953?pwd=MlgzREJSZmxCTXFMODJZeTJSR0Y1UT09"
   },
   {
     "name": "Reunião Grupo Oportunidade ao Sol",
     "weekday": 3,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,VM,EGP",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8167298474?pwd=dnVGZVQ0a052VUZvOHJSVUFoOW0yQT09"
   },
   {
     "name": "Reunião Grupo Árvore",
     "weekday": 3,
     "start": "21:00:00",
     "end": "22:00:00",
-    "platform": "F,EL,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/85002457409?pwd=WHFiczFKRSsyOGRpTkxuL2tEZzVKQT09"
   },
   {
     "name": "Reunião Grupo União Canoas On-line",
     "weekday": 3,
     "start": "21:00:00",
     "end": "22:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/2249928383"
   },
   {
     "name": "Reunião Grupo Amigos em Recuperação",
     "weekday": 3,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/5767910351?pwd=1IWXVVAsDM3HZ0p526aNhbFnT9rNI9.1"
   },
   {
     "name": "Subcomitês CSA Para-NA",
     "weekday": 3,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "HY,SUB-EV",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/87112359359"
   },
   {
     "name": "Reunião Grupo Mundo Sem Fronteiras",
     "weekday": 3,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,EVL,VM,OA",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5ª Tradição",
-    "weekday": 3,
-    "start": "21:00:00",
-    "end": "23:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/6592297438?pwd=K1VZWllxWGkyS2d6SkVGeVJIMjBoUT09"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 3,
     "start": "21:30:00",
     "end": "23:30:00",
-    "platform": "F,EL,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Baixada Sem Fronteiras",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7973245651"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Corujão Brasil",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/9991111953"
   },
   {
     "name": "Reunião Grupo Garage",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/458415245?pwd=TE9oNCtUdXlYbTJTZmNmK2ZRWndzUT09"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Recreio On-line",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/84709392930"
   },
   {
     "name": "Reunião Grupo Pedra do Pontal",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9133798128"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,CAR,VM,LGBTQIAPN+",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Adictos Jandira & Itapevi",
-    "weekday": 3,
-    "start": "22:00:00",
-    "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Oportunidade ao Sol",
     "weekday": 3,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,VM,EPO",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8167298474?pwd=dnVGZVQ0a052VUZvOHJSVUFoOW0yQT09"
   },
   {
     "name": "Reunião Grupo Dunas On-line",
     "weekday": 3,
     "start": "22:30:00",
     "end": "00:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8395475072"
   },
   {
     "name": "Reunião Grupo Virtual Madrugada",
     "weekday": 4,
     "start": "00:05:00",
     "end": "04:05:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/9600627555?pwd=eAWhOMksmdd10eIW9dH9aoFJeNM3E4.1"
   },
   {
     "name": "Reunião Grupo Noite Adentro (NA)",
     "weekday": 4,
     "start": "01:00:00",
     "end": "03:00:00",
-    "platform": "F,VM,OLM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/83215273095?pwd=sGHm6iprkVcLHUjI4XdCaflQmObIHU.1"
   },
   {
     "name": "Reunião Grupo Insônia na Recuperação",
     "weekday": 4,
     "start": "02:00:00",
     "end": "04:00:00",
-    "platform": "F,TP,ECAR,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Conexão Matinal de NA",
     "weekday": 4,
     "start": "04:30:00",
     "end": "06:30:00",
-    "platform": "F,RC,VM,QER",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Novo Dia",
     "weekday": 4,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221?pwd=TkQyOXNsL0pqQUdMeWVtcXJRV2dLdz09"
   },
   {
     "name": "Reunião Grupo Virtual Desperta Rio Grande de NA",
     "weekday": 4,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9997771988?pwd=TVZ4MGgyMTJyVDlFMEtUdUhUZWk5dz09"
   },
   {
     "name": "Reunião Grupo Café com NA",
     "weekday": 4,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Conquista Sem Fronteiras",
     "weekday": 4,
     "start": "07:00:00",
     "end": "08:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/3495411790"
   },
   {
     "name": "Reunião Grupo Viver Limpo",
     "weekday": 4,
     "start": "07:00:00",
     "end": "08:30:00",
-    "platform": "F,ETB,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4573689331"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 4,
     "start": "07:00:00",
     "end": "08:50:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Virtual",
     "weekday": 4,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,EVL,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Despertar",
-    "weekday": 4,
-    "start": "07:00:00",
-    "end": "09:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 4,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,EVL,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 4,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 4,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 4,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Virtual",
     "weekday": 4,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,EVL,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 4,
     "start": "07:30:00",
     "end": "09:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Espiritualidade",
     "weekday": 4,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 4,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 4,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,Con,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Juntas Somos Mais Fortes",
     "weekday": 4,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Bom dia Brasil",
     "weekday": 4,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 4,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Por que estamos aqui?",
     "weekday": 4,
     "start": "09:30:00",
     "end": "11:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/91640588499?pwd=d1NyWG1wcFN2d1RHUXpHNlNsMkpEUT09"
   },
   {
     "name": "Reunião Grupo Virtual Para-NA",
     "weekday": 4,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/89289372940?pwd=MnE2VVd3ZnNUd3NLakJaaUcrV2ZRZz09"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 4,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 4,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 4,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo Nova União Praias",
     "weekday": 4,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5575100432?pwd=cTBpSk1hQ3BmK3BsTEdSYkdUYW9aZz09"
   },
   {
     "name": "Reunião Grupo Juntos Podemos SPH",
     "weekday": 4,
     "start": "11:30:00",
     "end": "13:30:00",
-    "platform": "VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Santo Amaro",
     "weekday": 4,
     "start": "12:00:00",
     "end": "13:00:00",
-    "platform": "A,TP,VM,LIBRAS",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/83972852271"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 4,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo GATA",
     "weekday": 4,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Virtual Meio-dia",
     "weekday": 4,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 4,
     "start": "12:30:00",
     "end": "14:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Unidos Venceremos",
-    "weekday": 4,
-    "start": "14:00:00",
-    "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Fênix",
     "weekday": 4,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/89289487374?pwd=vlF6ea0bMB8adJ72xn0alig4jdxmr4.1"
   },
   {
     "name": "Reunião Grupo Virtual Bom Retiro",
     "weekday": 4,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Aceitação, Fé e Compromisso",
     "weekday": 4,
     "start": "15:00:00",
     "end": "16:30:00",
-    "platform": "VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323?pwd=SkRGbTAzL2g1ZGU2VU92TGZ1ZmRqQT09"
   },
   {
     "name": "Reunião Grupo Princípios Orientadores",
     "weekday": 4,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "A,VM,Est",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/6060601953"
   },
   {
     "name": "Reunião Grupo Virtual Meio-dia",
     "weekday": 4,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "F,EL,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 4,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Espiritualidade",
     "weekday": 4,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "A,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 4,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Os Laços Que Nos Unem",
     "weekday": 4,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/5352805398?pwd=bSRL1uucpyRLEPoIrLjAvlKizccuqV.1"
   },
   {
     "name": "Reunião Grupo 16:00 Quebrando Fronteiras",
     "weekday": 4,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/9933455789?pwd=DyiusQ4z6hfIV6wkmKiXnxl2n2iPVW.1"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 4,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Santa Cecília",
-    "weekday": 4,
-    "start": "17:00:00",
-    "end": "19:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 4,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,TP,CAR,VM,LGBTQIAPN+",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 4,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo União",
     "weekday": 4,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8332144243?pwd=MHQ5RUpOQ3RVckRpSTZtNitqY3RBQT09"
   },
   {
     "name": "Reunião Grupo Novo Belo Horizonte",
     "weekday": 4,
     "start": "17:30:00",
     "end": "18:30:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2176700817?pwd=kmdb0AmXLAeGCU8IVAB36mDtHgbaoL.1&omn=86183554030"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 4,
     "start": "17:30:00",
     "end": "19:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Nova Era",
     "weekday": 4,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/88614819314?pwd=roDKk2CJiYbjj87c6ZYEsW8bRsyoty.1"
   },
   {
     "name": "Reunião Grupo Brooklin",
     "weekday": 4,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/7956240465"
   },
   {
     "name": "Reunião Grupo Resiliência",
     "weekday": 4,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8796589210?pwd=paqApvx5fXKRbCUl74fAyvaw7KqUgO.1"
   },
   {
     "name": "Reunião Grupo Unidade Auxiliadora",
     "weekday": 4,
     "start": "18:30:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Navegantes",
-    "weekday": 4,
-    "start": "19:00:00",
-    "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/2249928383"
   },
   {
     "name": "Reunião Grupo Glória",
     "weekday": 4,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/268275700"
   },
   {
     "name": "Reunião Grupo Renascer",
     "weekday": 4,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/2201201953?pwd=bFYvK2k4alRxRzdUOVNzQTh4WDlsQT09"
   },
   {
     "name": "Reunião Grupo Virtual Vale do Café",
     "weekday": 4,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8305510823?pwd=0Q8pXSbDXZA5YkD4f9aNnDOIP64fL0.1"
   },
   {
     "name": "Reunião Grupo Liberdade",
     "weekday": 4,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,EC",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2109108110?pwd=a3VtOTRndm8xVHZENkdQTlNMcnVPZz09"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 4,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 4,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Ribeira Virtual",
     "weekday": 4,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,EL,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2761453307?pwd=Fl3AUBvzBcUMcWafXEjYQcsdSdsVut.1"
   },
   {
     "name": "Reunião Grupo CSA Baixada",
     "weekday": 4,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4644108686?pwd=RitNb3pUbHVPRVpmaStYTWR5SnRzZz09"
   },
   {
     "name": "Reunião Grupo Recomeço",
     "weekday": 4,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:00:00",
-    "platform": "F,VM,EPE",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Viver Limpo",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7632792200?pwd=aS8vbjlsOUY4N0FpVzBMc0RmRGJWZz09"
   },
   {
     "name": "Reunião Grupo Litoral",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5679991297"
   },
   {
     "name": "Reunião Grupo Elas",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,IF,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/83992700876?pwd=Q0ZKRHEyaVhpTSs3Wk9icmFoUXY4dz09"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Canela Verde",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2023071153?pwd=SjbUWQN2TcatVfuSFq2EFkcbsirKFx.1"
   },
   {
     "name": "Reunião Grupo Grajaú On-line",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9133798128?pwd=Q2srSldOMmROdDVkRkc5eXVrL2M0QT09"
   },
   {
     "name": "Reunião Grupo Vila Isabel",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,VM,EGP",
-    "link": ""
+    "link": "https://zoom.us/j/4736603661"
   },
   {
     "name": "Reunião Grupo Harmonia",
     "weekday": 4,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "A,ETB,EP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo @nabr",
-    "weekday": 4,
-    "start": "20:00:00",
-    "end": "21:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "http://zoom.us/j/9172609611?pwd=Z2p0czRjaGlnYVQyazZjRkl4WDR1Zz09"
   },
   {
     "name": "Reunião Grupo Virtual Reviver Norte Paranaense",
     "weekday": 4,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/84344999461"
   },
   {
     "name": "Reunião Grupo Juntos Podemos On-line de NA",
     "weekday": 4,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,EVL,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9991231953?pwd=RjBDb2lCdXBjTHZvM25GNEJQeC9qUT09"
   },
   {
     "name": "Reunião Grupo Caminho dos Passos",
     "weekday": 4,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "A,VM,EGP",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9111907777"
   },
   {
     "name": "Reunião Grupo Só Por Elas",
     "weekday": 4,
     "start": "20:00:00",
     "end": "21:50:00",
-    "platform": "F,IF,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323?pwd=SkRGbTAzL2g1ZGU2VU92TGZ1ZmRqQT09"
   },
   {
     "name": "Reunião Grupo Amazônia On-line",
     "weekday": 4,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/85720965799?pwd=OFJMQWt0ekRDU3RFblZ6YVdVTHovQT09"
   },
   {
     "name": "Reunião Grupo Ponto de Equilíbrio",
     "weekday": 4,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,EL,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Ateus e Agnósticos de NA On-line",
     "weekday": 4,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,ET,VM,AtAg",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/6660001953?pwd=MlgzREJSZmxCTXFMODJZeTJSR0Y1UT09"
   },
   {
     "name": "Reunião Grupo Oportunidade ao Sol",
     "weekday": 4,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,EVL,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8167298474?pwd=dnVGZVQ0a052VUZvOHJSVUFoOW0yQT09"
   },
   {
     "name": "Reunião Grupo Barreiras",
     "weekday": 4,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,HY,FuF",
-    "link": ""
+    "link": "https://zoom.us/j/91640588499?pwd=d1NyWG1wcFN2d1RHUXpHNlNsMkpEUT09"
   },
   {
     "name": "Reunião Grupo Só Por Hoje Brasil",
     "weekday": 4,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,VM,OLM",
-    "link": ""
+    "link": "https://zoom.us/j/439128031"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 4,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TM,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5+2",
-    "weekday": 4,
-    "start": "20:00:00",
-    "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Amigos em Recuperação",
     "weekday": 4,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5ª Tradição",
-    "weekday": 4,
-    "start": "21:00:00",
-    "end": "23:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/5767910351?pwd=1IWXVVAsDM3HZ0p526aNhbFnT9rNI9.1"
   },
   {
     "name": "Reunião Grupo Mundo Sem Fronteiras",
     "weekday": 4,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,VM,OA",
-    "link": ""
+    "link": "https://zoom.us/j/6592297438?pwd=K1VZWllxWGkyS2d6SkVGeVJIMjBoUT09"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 4,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,EL,CAR,VM,LGBTQIAPN+",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 4,
     "start": "21:30:00",
     "end": "23:30:00",
-    "platform": "F,EP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Sul da Ilha",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4573689331?pwd=dWc1WmVVWUtubnVDdE03bzRIVXN2QT09"
   },
   {
     "name": "Reunião Grupo Baixada Sem Fronteiras",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7973245651"
   },
   {
     "name": "Reunião Grupo Catete",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Sistema RAD",
-    "weekday": 4,
-    "start": "22:00:00",
-    "end": "00:00:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Corujão Brasil",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/9991111953"
   },
   {
     "name": "Reunião Grupo Garage",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/458415245?pwd=TE9oNCtUdXlYbTJTZmNmK2ZRWndzUT09"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Recreio On-line",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/84709392930"
   },
   {
     "name": "Reunião Grupo Pedra do Pontal",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9133798128"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 4,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Virtual Madrugada",
     "weekday": 5,
     "start": "00:05:00",
     "end": "04:05:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/9600627555?pwd=eAWhOMksmdd10eIW9dH9aoFJeNM3E4.1"
   },
   {
     "name": "Reunião Grupo Noite Adentro (NA)",
     "weekday": 5,
     "start": "01:00:00",
     "end": "03:00:00",
-    "platform": "F,VM,OLM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/83215273095?pwd=sGHm6iprkVcLHUjI4XdCaflQmObIHU.1"
   },
   {
     "name": "Reunião Grupo Insônia na Recuperação",
     "weekday": 5,
     "start": "02:00:00",
     "end": "04:00:00",
-    "platform": "F,TP,ECAR,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Conexão Matinal de NA",
     "weekday": 5,
     "start": "04:30:00",
     "end": "06:30:00",
-    "platform": "F,RC,VM,QER",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Novo Dia",
     "weekday": 5,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221?pwd=TkQyOXNsL0pqQUdMeWVtcXJRV2dLdz09"
   },
   {
     "name": "Reunião Grupo Virtual Desperta Rio Grande de NA",
     "weekday": 5,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9997771988?pwd=TVZ4MGgyMTJyVDlFMEtUdUhUZWk5dz09"
   },
   {
     "name": "Reunião Grupo Café com NA",
     "weekday": 5,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Conquista Sem Fronteiras",
     "weekday": 5,
     "start": "07:00:00",
     "end": "08:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/3495411790"
   },
   {
     "name": "Reunião Grupo Viver Limpo",
     "weekday": 5,
     "start": "07:00:00",
     "end": "08:30:00",
-    "platform": "F,TP,EVL,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4573689331"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 5,
     "start": "07:00:00",
     "end": "08:50:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Virtual",
     "weekday": 5,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,EC",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Despertar",
-    "weekday": 5,
-    "start": "07:00:00",
-    "end": "09:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 5,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,EGSL",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 5,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 5,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Virtual",
     "weekday": 5,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,EC,EGSL",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 5,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 5,
     "start": "07:30:00",
     "end": "09:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 5,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 5,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Sistema RAD",
     "weekday": 5,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "F,EVL,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9998886262?pwd=b3RkdG5Fd080ME1Lb3RqcDI3cjJRZz09"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Espiritualidade",
     "weekday": 5,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 5,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Bom dia Brasil",
     "weekday": 5,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Por que estamos aqui?",
     "weekday": 5,
     "start": "09:30:00",
     "end": "11:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/91640588499?pwd=d1NyWG1wcFN2d1RHUXpHNlNsMkpEUT09"
   },
   {
     "name": "Reunião Grupo Elas",
     "weekday": 5,
     "start": "10:00:00",
     "end": "11:30:00",
-    "platform": "F,IF,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5319653538?pwd=bmxFeHRsODFodmF2ZFQvbGFYNGYrdz09"
   },
   {
     "name": "Reunião Grupo Nova União Praias",
     "weekday": 5,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5575100432?pwd=cTBpSk1hQ3BmK3BsTEdSYkdUYW9aZz09"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 5,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 5,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,EP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo Virtual Para-NA",
     "weekday": 5,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/89289372940?pwd=MnE2VVd3ZnNUd3NLakJaaUcrV2ZRZz09"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 5,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 5,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo GATA",
     "weekday": 5,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,EVL,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Virtual Meio-dia",
     "weekday": 5,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 5,
     "start": "12:30:00",
     "end": "14:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Unidos Venceremos",
-    "weekday": 5,
-    "start": "14:00:00",
-    "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Fênix",
     "weekday": 5,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/89289487374?pwd=vlF6ea0bMB8adJ72xn0alig4jdxmr4.1"
   },
   {
     "name": "Reunião Grupo Virtual Bom Retiro",
     "weekday": 5,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 5,
     "start": "14:30:00",
     "end": "16:00:00",
-    "platform": "A,TM,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Aceitação, Fé e Compromisso",
     "weekday": 5,
     "start": "15:00:00",
     "end": "16:30:00",
-    "platform": "VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323?pwd=SkRGbTAzL2g1ZGU2VU92TGZ1ZmRqQT09"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 5,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Juntas Somos Mais Fortes",
     "weekday": 5,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 5,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Os Laços Que Nos Unem",
     "weekday": 5,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/5352805398?pwd=bSRL1uucpyRLEPoIrLjAvlKizccuqV.1"
   },
   {
     "name": "Reunião Grupo 16:00 Quebrando Fronteiras",
     "weekday": 5,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/9933455789?pwd=DyiusQ4z6hfIV6wkmKiXnxl2n2iPVW.1"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 5,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 5,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Santa Cecília",
-    "weekday": 5,
-    "start": "17:00:00",
-    "end": "19:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 5,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,TP,CAR,VM,LGBTQIAPN+",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Novo Belo Horizonte",
     "weekday": 5,
     "start": "17:30:00",
     "end": "18:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2176700817?pwd=kmdb0AmXLAeGCU8IVAB36mDtHgbaoL.1&omn=86183554030"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 5,
     "start": "17:30:00",
     "end": "19:30:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Resiliência",
     "weekday": 5,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8796589210?pwd=paqApvx5fXKRbCUl74fAyvaw7KqUgO.1"
   },
   {
     "name": "Reunião Grupo Nova Era",
     "weekday": 5,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Navegantes",
-    "weekday": 5,
-    "start": "19:00:00",
-    "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/88614819314?pwd=roDKk2CJiYbjj87c6ZYEsW8bRsyoty.1"
   },
   {
     "name": "Reunião Grupo Glória",
     "weekday": 5,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/268275700"
   },
   {
     "name": "Reunião Grupo Recuperasurf",
     "weekday": 5,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7769527148?pwd=aUhtcC9qL0U3MzVubXZMZkRSaTNlUT09"
   },
   {
     "name": "Reunião Grupo Liberdade",
     "weekday": 5,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,ETB,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2109108110?pwd=a3VtOTRndm8xVHZENkdQTlNMcnVPZz09"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 5,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Ribeira Virtual",
     "weekday": 5,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2761453307?pwd=Fl3AUBvzBcUMcWafXEjYQcsdSdsVut.1"
   },
   {
     "name": "Reunião Grupo CSA Baixada",
     "weekday": 5,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4644108686?pwd=RitNb3pUbHVPRVpmaStYTWR5SnRzZz09"
   },
   {
     "name": "Reunião Grupo Renascer",
     "weekday": 5,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/2201201953?pwd=bFYvK2k4alRxRzdUOVNzQTh4WDlsQT09"
   },
   {
     "name": "Reunião Grupo Recomeço",
     "weekday": 5,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Vida Livre",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Viemos a Acreditar",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "VM",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Canela Verde",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2023071153?pwd=SjbUWQN2TcatVfuSFq2EFkcbsirKFx.1"
   },
   {
     "name": "Reunião Grupo Força Jovem",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "TM,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/3848846526?pwd=dnNsZm9wV2V1MWplSHF3R0srSjFOUT09"
   },
   {
     "name": "Reunião Grupo Vila Isabel",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/4736603661"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Grajaú On-line",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9133798128?pwd=Q2srSldOMmROdDVkRkc5eXVrL2M0QT09"
   },
   {
     "name": "Reunião Grupo Mossoró",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Abraço Virtual On-line",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/6081264314?pwd=d2l1Q1MvZnJ3OXpDeDIrQmNLd0xYdz09"
   },
   {
     "name": "Reunião Grupo Harmonia",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,VM,Sent,EGP",
-    "link": ""
+    "link": "http://zoom.us/j/9172609611?pwd=Z2p0czRjaGlnYVQyazZjRkl4WDR1Zz09"
   },
   {
     "name": "Subcomitês CSA Para-NA",
     "weekday": 5,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "HY,SUB-H&I",
-    "link": ""
-  },
-  {
-    "name": "Subcomitê CSA Extremo Oriental - PB",
-    "weekday": 5,
-    "start": "19:30:00",
-    "end": "22:30:00",
-    "platform": "HY,SUB-RP",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/966535339"
   },
   {
     "name": "Reunião Grupo Caminho e Verdade",
     "weekday": 5,
     "start": "20:00:00",
     "end": "21:00:00",
-    "platform": "TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9993331953"
   },
   {
     "name": "Reunião Grupo Recuperação de NA Bahia",
     "weekday": 5,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "A,VM,LIP",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/91640588499?pwd=cTY5anFkWTEvbXBYQXlKZnF3VS84UT09"
   },
   {
     "name": "Reunião Grupo Caminho dos Passos",
     "weekday": 5,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "A,VM,ELA",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9111907777"
   },
   {
     "name": "Reunião Grupo Juntos Podemos On-line de NA",
     "weekday": 5,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,ET,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9991231953?pwd=RjBDb2lCdXBjTHZvM25GNEJQeC9qUT09"
   },
   {
     "name": "Reunião Grupo Mensagem",
     "weekday": 5,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,TP,CadP,HY,FuF",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/5807800800?pwd=dXViTnk4ZzZmK2R4OHBKT1R1UUN6dz09"
   },
   {
     "name": "Reunião Grupo Só Por Elas",
     "weekday": 5,
     "start": "20:00:00",
     "end": "21:50:00",
-    "platform": "F,IF,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323?pwd=SkRGbTAzL2g1ZGU2VU92TGZ1ZmRqQT09"
   },
   {
     "name": "Reunião Grupo Virtual ZN",
     "weekday": 5,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9072282020"
   },
   {
     "name": "Reunião Grupo Amazônia On-line",
     "weekday": 5,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/85720965799?pwd=OFJMQWt0ekRDU3RFblZ6YVdVTHovQT09"
   },
   {
     "name": "Reunião Grupo Ponto de Equilíbrio",
     "weekday": 5,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,EL,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Oportunidade ao Sol",
     "weekday": 5,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,VM,EIR",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5+2",
-    "weekday": 5,
-    "start": "20:00:00",
-    "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Subcomitê CSA Vale dos Sinos",
-    "weekday": 5,
-    "start": "20:00:00",
-    "end": "22:00:00",
-    "platform": "HY,SUB-RP",
-    "link": ""
-  },
-  {
-    "name": "Subcomitês CSA Pérola do Atlântico",
-    "weekday": 5,
-    "start": "20:00:00",
-    "end": "22:00:00",
-    "platform": "VM,SUB-LDA",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8167298474?pwd=dnVGZVQ0a052VUZvOHJSVUFoOW0yQT09"
   },
   {
     "name": "Reunião Sistema RAD",
     "weekday": 5,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM,EPO",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9998886262?pwd=b3RkdG5Fd080ME1Lb3RqcDI3cjJRZz09"
   },
   {
     "name": "Reunião Grupo Só Por Hoje Brasil",
     "weekday": 5,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,EVL,VM",
-    "link": ""
+    "link": "https://zoom.us/j/439128031"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 5,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo União Canoas On-line",
     "weekday": 5,
     "start": "21:00:00",
     "end": "22:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/2249928383"
   },
   {
     "name": "Reunião Grupo Amigos em Recuperação",
     "weekday": 5,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5ª Tradição",
-    "weekday": 5,
-    "start": "21:00:00",
-    "end": "23:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/5767910351?pwd=1IWXVVAsDM3HZ0p526aNhbFnT9rNI9.1"
   },
   {
     "name": "Reunião Grupo Mundo Sem Fronteiras",
     "weekday": 5,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,Ind,VM",
-    "link": ""
+    "link": "https://zoom.us/j/6592297438?pwd=K1VZWllxWGkyS2d6SkVGeVJIMjBoUT09"
   },
   {
     "name": "Reunião Grupo Princípios Orientadores",
     "weekday": 5,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "A,VM,Est",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/6060601953"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 5,
     "start": "21:30:00",
     "end": "23:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 5,
     "start": "22:00:00",
     "end": "23:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Quinta Tradição",
     "weekday": 5,
     "start": "22:00:00",
     "end": "23:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Baixada Sem Fronteiras",
     "weekday": 5,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7973245651"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 5,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Corujão Brasil",
     "weekday": 5,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/9991111953"
   },
   {
     "name": "Reunião Grupo Garage",
     "weekday": 5,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/458415245?pwd=TE9oNCtUdXlYbTJTZmNmK2ZRWndzUT09"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 5,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Recreio On-line",
     "weekday": 5,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/84709392930"
   },
   {
     "name": "Reunião Grupo Pedra do Pontal",
     "weekday": 5,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9133798128"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 5,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,CAR,VM,LGBTQIAPN+",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Adictos Jandira & Itapevi",
-    "weekday": 5,
-    "start": "22:00:00",
-    "end": "00:00:00",
-    "platform": "A,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 5,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Virtual Madrugada",
     "weekday": 6,
     "start": "00:05:00",
     "end": "04:05:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/9600627555?pwd=eAWhOMksmdd10eIW9dH9aoFJeNM3E4.1"
   },
   {
     "name": "Reunião Grupo Noite Adentro (NA)",
     "weekday": 6,
     "start": "01:00:00",
     "end": "03:00:00",
-    "platform": "F,VM,OLM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/83215273095?pwd=sGHm6iprkVcLHUjI4XdCaflQmObIHU.1"
   },
   {
     "name": "Reunião Grupo Insônia na Recuperação",
     "weekday": 6,
     "start": "02:00:00",
     "end": "04:00:00",
-    "platform": "F,TP,ECAR,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Conexão Matinal de NA",
     "weekday": 6,
     "start": "04:30:00",
     "end": "06:30:00",
-    "platform": "F,RC,VM,QER",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Novo Dia",
     "weekday": 6,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221?pwd=TkQyOXNsL0pqQUdMeWVtcXJRV2dLdz09"
   },
   {
     "name": "Reunião Grupo Virtual Desperta Rio Grande de NA",
     "weekday": 6,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9997771988?pwd=TVZ4MGgyMTJyVDlFMEtUdUhUZWk5dz09"
   },
   {
     "name": "Reunião Grupo Café com NA",
     "weekday": 6,
     "start": "05:00:00",
     "end": "07:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Conquista Sem Fronteiras",
     "weekday": 6,
     "start": "07:00:00",
     "end": "08:30:00",
-    "platform": "A,EP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/3495411790"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 6,
     "start": "07:00:00",
     "end": "08:50:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Virtual",
     "weekday": 6,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,EGP",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Despertar",
-    "weekday": 6,
-    "start": "07:00:00",
-    "end": "09:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 6,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,ET,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 6,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,EMD,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 6,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Virtual",
     "weekday": 6,
     "start": "07:00:00",
     "end": "09:00:00",
-    "platform": "A,VM,EGP",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo União Canoas On-line",
     "weekday": 6,
     "start": "07:30:00",
     "end": "09:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/2249928383"
   },
   {
     "name": "Reunião Grupo Unidade & Serviço",
     "weekday": 6,
     "start": "07:30:00",
     "end": "09:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Espiritualidade",
     "weekday": 6,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 6,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer",
     "weekday": 6,
     "start": "08:00:00",
     "end": "10:00:00",
-    "platform": "A,EP,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Armação dos Búzios",
     "weekday": 6,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/6907969648"
   },
   {
     "name": "Reunião Grupo Bom dia Brasil",
     "weekday": 6,
     "start": "09:00:00",
     "end": "11:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Por que estamos aqui?",
     "weekday": 6,
     "start": "09:30:00",
     "end": "11:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/91640588499?pwd=d1NyWG1wcFN2d1RHUXpHNlNsMkpEUT09"
   },
   {
     "name": "Reunião Grupo Virtual Para-NA",
     "weekday": 6,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/89289372940?pwd=MnE2VVd3ZnNUd3NLakJaaUcrV2ZRZz09"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 6,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,ETB,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Nova União Praias",
     "weekday": 6,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "A,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5575100432?pwd=cTBpSk1hQ3BmK3BsTEdSYkdUYW9aZz09"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 6,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 6,
     "start": "10:00:00",
     "end": "12:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo Juntos Podemos SPH",
     "weekday": 6,
     "start": "11:30:00",
     "end": "13:30:00",
-    "platform": "VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 6,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo GATA",
     "weekday": 6,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,TP,EVL,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Virtual Meio-dia",
     "weekday": 6,
     "start": "12:00:00",
     "end": "14:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8016787862?pwd=Ich04WFN3A9d37CsG2eabnM6oN6rCB.1"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 6,
     "start": "12:30:00",
     "end": "14:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Unidos Venceremos",
-    "weekday": 6,
-    "start": "14:00:00",
-    "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo Fênix",
     "weekday": 6,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/89289487374?pwd=vlF6ea0bMB8adJ72xn0alig4jdxmr4.1"
   },
   {
     "name": "Reunião Grupo Virtual Bom Retiro",
     "weekday": 6,
     "start": "14:00:00",
     "end": "16:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7770001988?pwd=Nit6ZW1mdEhxdk1KaU82dDlic2paUT09"
   },
   {
     "name": "Reunião Grupo Aceitação, Fé e Compromisso",
     "weekday": 6,
     "start": "15:00:00",
     "end": "16:30:00",
-    "platform": "VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323?pwd=SkRGbTAzL2g1ZGU2VU92TGZ1ZmRqQT09"
   },
   {
     "name": "Reunião Grupo Princípios Orientadores",
     "weekday": 6,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "A,VM,Est",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/6060601953"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 6,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Novo Amanhecer Espiritualidade",
     "weekday": 6,
     "start": "15:00:00",
     "end": "17:00:00",
-    "platform": "A,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 6,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Os Laços Que Nos Unem",
     "weekday": 6,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/5352805398?pwd=bSRL1uucpyRLEPoIrLjAvlKizccuqV.1"
   },
   {
     "name": "Reunião Grupo 16:00 Quebrando Fronteiras",
     "weekday": 6,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/9933455789?pwd=DyiusQ4z6hfIV6wkmKiXnxl2n2iPVW.1"
   },
   {
     "name": "Reunião Grupo Digital Praias",
     "weekday": 6,
     "start": "16:00:00",
     "end": "18:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us05web.zoom.us/j/2100031799"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 6,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,TP,CAR,VM,LGBTQIAPN+",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Búzios On-line",
     "weekday": 6,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8222279218"
   },
   {
     "name": "Reunião Grupo União",
     "weekday": 6,
     "start": "17:00:00",
     "end": "19:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Santa Cecília",
-    "weekday": 6,
-    "start": "17:00:00",
-    "end": "19:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8332144243?pwd=MHQ5RUpOQ3RVckRpSTZtNitqY3RBQT09"
   },
   {
     "name": "Reunião Grupo Novo Belo Horizonte",
     "weekday": 6,
     "start": "17:30:00",
     "end": "18:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2176700817?pwd=kmdb0AmXLAeGCU8IVAB36mDtHgbaoL.1&omn=86183554030"
   },
   {
     "name": "Reunião Grupo Largo do Machado",
     "weekday": 6,
     "start": "17:30:00",
     "end": "19:30:00",
-    "platform": "A,ETB,VM",
-    "link": ""
+    "link": "https://zoom.us/j/754419737"
   },
   {
     "name": "Reunião Grupo Liberdad",
     "weekday": 6,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Resiliência",
     "weekday": 6,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/8796589210?pwd=paqApvx5fXKRbCUl74fAyvaw7KqUgO.1"
   },
   {
     "name": "Reunião Grupo Nova Era",
     "weekday": 6,
     "start": "18:00:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/88614819314?pwd=roDKk2CJiYbjj87c6ZYEsW8bRsyoty.1"
   },
   {
     "name": "Reunião Grupo Unidade Auxiliadora",
     "weekday": 6,
     "start": "18:30:00",
     "end": "20:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/2249928383"
   },
   {
     "name": "Reunião Grupo CSA Baixada",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Navegantes",
-    "weekday": 6,
-    "start": "19:00:00",
-    "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4644108686?pwd=RitNb3pUbHVPRVpmaStYTWR5SnRzZz09"
   },
   {
     "name": "Reunião Grupo Glória",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/268275700"
   },
   {
     "name": "Reunião Grupo Renascer",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/2201201953?pwd=bFYvK2k4alRxRzdUOVNzQTh4WDlsQT09"
   },
   {
     "name": "Reunião Grupo GATA",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,EP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9998886262"
   },
   {
     "name": "Reunião Sistema RAD - Grupo GATA",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TW,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9998886262?pwd=b3RkdG5Fd080ME1Lb3RqcDI3cjJRZz09"
   },
   {
     "name": "Reunião Grupo Recomeço",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4150942864"
   },
   {
     "name": "Reunião Grupo Liberdade",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,RSPH",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2109108110?pwd=a3VtOTRndm8xVHZENkdQTlNMcnVPZz09"
   },
   {
     "name": "Reunião Grupo Salvar Vidas",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://zoom.us/j/2024071234?pwd=nKa0HiBqPty9Eacfb7ajFEEALEUKzZ.1"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Ribeira Virtual",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2761453307?pwd=Fl3AUBvzBcUMcWafXEjYQcsdSdsVut.1"
   },
   {
     "name": "Oficina CSA PR 44",
     "weekday": 6,
     "start": "19:00:00",
     "end": "21:00:00",
-    "platform": "HY,SUB-H&I",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/86264883828"
   },
   {
     "name": "Reunião Grupo Litoral",
     "weekday": 6,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5679991297"
   },
   {
     "name": "Reunião Grupo CSA Minas",
     "weekday": 6,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "TM,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/5274146396"
   },
   {
     "name": "Reunião Grupo Sem Fronteiras",
     "weekday": 6,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/89007418194?pwd=c0xza3NncGRrWVdYenlQQzBJRWFLQT09"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 6,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo O Poder do Programa",
     "weekday": 6,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TM,TP,HY",
-    "link": ""
+    "link": "https://zoom.us/j/9145284993"
   },
   {
     "name": "Reunião Grupo Grajaú On-line",
     "weekday": 6,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9133798128?pwd=Q2srSldOMmROdDVkRkc5eXVrL2M0QT09"
   },
   {
     "name": "Reunião Grupo Vila Isabel",
     "weekday": 6,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4736603661"
   },
   {
     "name": "Reunião Grupo Harmonia",
     "weekday": 6,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "http://zoom.us/j/9172609611?pwd=Z2p0czRjaGlnYVQyazZjRkl4WDR1Zz09"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 6,
     "start": "19:30:00",
     "end": "21:30:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Juntos Podemos On-line de NA",
     "weekday": 6,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "A,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9991231953?pwd=RjBDb2lCdXBjTHZvM25GNEJQeC9qUT09"
   },
   {
     "name": "Reunião Grupo Caminho dos Passos",
     "weekday": 6,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "A,EVL,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/9111907777"
   },
   {
     "name": "Reunião Grupo Recuperação de NA Bahia",
     "weekday": 6,
     "start": "20:00:00",
     "end": "21:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/91640588499?pwd=cTY5anFkWTEvbXBYQXlKZnF3VS84UT09"
   },
   {
     "name": "Reunião Grupo Só Por Elas",
     "weekday": 6,
     "start": "20:00:00",
     "end": "21:50:00",
-    "platform": "F,IF,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323?pwd=SkRGbTAzL2g1ZGU2VU92TGZ1ZmRqQT09"
   },
   {
     "name": "Reunião Grupo Só Por Hoje Brasil",
     "weekday": 6,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,VM,OC",
-    "link": ""
+    "link": "https://zoom.us/j/439128031"
   },
   {
     "name": "Reunião Grupo Esperança",
     "weekday": 6,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/4487344400?pwd=Rm1hK3o4RWY1VVlqT0dkd1FJbVpCZz09"
   },
   {
     "name": "Reunião Grupo Amazônia On-line",
     "weekday": 6,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/85720965799?pwd=OFJMQWt0ekRDU3RFblZ6YVdVTHovQT09"
   },
   {
     "name": "Reunião Grupo Ponto de Equilíbrio",
     "weekday": 6,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,TP,EL,VM",
-    "link": ""
+    "link": "http://zoom.us/j/7770001988"
   },
   {
     "name": "Reunião Grupo Oportunidade ao Sol",
     "weekday": 6,
     "start": "20:00:00",
     "end": "22:00:00",
-    "platform": "F,VM,EIP",
-    "link": ""
-  },
-  {
-    "name": "Subcomitês CSA Pérola do Atlântico",
-    "weekday": 6,
-    "start": "20:00:00",
-    "end": "22:00:00",
-    "platform": "VM,SUB-EV",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo 5ª Tradição",
-    "weekday": 6,
-    "start": "21:00:00",
-    "end": "23:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/8167298474?pwd=dnVGZVQ0a052VUZvOHJSVUFoOW0yQT09"
   },
   {
     "name": "Reunião Grupo Mundo Sem Fronteiras",
     "weekday": 6,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,VM,OA",
-    "link": ""
+    "link": "https://zoom.us/j/6592297438?pwd=K1VZWllxWGkyS2d6SkVGeVJIMjBoUT09"
   },
   {
     "name": "Reunião Grupo Canela Verde",
     "weekday": 6,
     "start": "21:00:00",
     "end": "23:00:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2023071153?pwd=SjbUWQN2TcatVfuSFq2EFkcbsirKFx.1"
   },
   {
     "name": "Reunião Grupo USL",
     "weekday": 6,
     "start": "21:30:00",
     "end": "23:30:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://us06web.zoom.us/j/2203202053?pwd=fOHk17Hlvma7ZuaFQsewReXFKcfGM4.1"
   },
   {
     "name": "Reunião Grupo Sul da Ilha",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4573689331?pwd=dWc1WmVVWUtubnVDdE03bzRIVXN2QT09"
   },
   {
     "name": "Reunião Grupo Baixada Sem Fronteiras",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7973245651"
   },
   {
     "name": "Reunião Grupo Catete",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "VM",
-    "link": ""
+    "link": "https://us04web.zoom.us/j/558128221"
   },
   {
     "name": "Reunião Grupo Quinta Tradição",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4430251323"
   },
   {
     "name": "Reunião Grupo Quarentena",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://zoom.us/j/603887055?pwd=Vy9iZXRMMFRGSVVOK2NmUERvVWRDdz09"
   },
   {
     "name": "Reunião Grupo Corujão Brasil",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "http://zoom.us/j/9991111953"
   },
   {
     "name": "Reunião Grupo Garage",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,FR,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/458415245?pwd=TE9oNCtUdXlYbTJTZmNmK2ZRWndzUT09"
   },
   {
     "name": "Reunião Grupo Virtual Arco-íris Brasil de NA",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,CAR,VM,LGBTQIAPN+",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/4400560278?pwd=K1pxdko3VXBOYklIeVo5U2Fja1BCQT09"
   },
   {
     "name": "Reunião Grupo Acre-dito",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
-  },
-  {
-    "name": "Reunião Grupo Adictos Jandira & Itapevi",
-    "weekday": 6,
-    "start": "22:00:00",
-    "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8679413204?pwd=UllBZWFxWHVwYlBKeXFqMEZSbGRoQT09"
   },
   {
     "name": "Reunião Grupo Recreio",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/84709392930"
   },
   {
     "name": "Reunião Grupo Pedra do Pontal",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "F,TM,VM",
-    "link": ""
+    "link": "https://zoom.us/j/9133798128"
   },
   {
     "name": "Reunião Grupo Vencedores",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:00:00",
-    "platform": "A,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/7628039474"
   },
   {
     "name": "Reunião Grupo Recreio On-line",
     "weekday": 6,
     "start": "22:00:00",
     "end": "00:30:00",
-    "platform": "F,TP,VM",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/84709392930"
   },
   {
     "name": "Reunião Grupo Dunas On-line",
     "weekday": 6,
     "start": "22:30:00",
     "end": "00:00:00",
-    "platform": "F,VM,Sent",
-    "link": ""
+    "link": "https://us02web.zoom.us/j/8395475072"
   },
   {
     "name": "Reunião Grupo Mundo Sem Fronteiras",
     "weekday": 6,
     "start": "23:59:00",
     "end": "01:59:00",
-    "platform": "F,VM,OA",
-    "link": ""
+    "link": "https://zoom.us/j/6592297438?pwd=K1VZWllxWGkyS2d6SkVGeVJIMjBoUT09"
   }
 ]
