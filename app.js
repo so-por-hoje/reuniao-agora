@@ -1,113 +1,104 @@
-// app.js
-// ===========================================
-//  Mostra reuniões Zoom que estão acontecendo
-//  agora, respeitando o fuso America/Sao_Paulo
-// ===========================================
+/* app.js ─ versão 2024‑04‑19 */
 
-// ───────── helpers de data/hora (fuso BR) ─────────
-const TZ = 'America/Sao_Paulo';
+/* ───────── helpers ────────────────────────────────────────── */
+const pad     = n => String(n).padStart(2, "0");
+const now     = () => new Date();              // usa hora do navegador
+const weekday = () => now().getDay();          // 0‑6   (dom=0)
 
-const nowInBR = () => {
-  const iso = new Date().toLocaleString('en-US', { timeZone: TZ });
-  return new Date(iso);
+// "HH:MM:SS" → minutos desde 00:00
+const toMin = hms => {
+  const [h, m, s] = hms.split(":").map(Number);
+  return h * 60 + m + s / 60;
 };
 
-const currentTime = () => nowInBR().toTimeString().slice(0, 8);     // hh:mm:ss
-const currentWeekday = () => nowInBR().getDay();                     // 0‑Dom … 6‑Sáb
+/* ───────── relógio no topo ───────────────────────────────── */
+const $clock = document.getElementById("current-time");
+const dias   = ["Domingo","Segunda-feira","Terça-feira","Quarta-feira",
+                "Quinta-feira","Sexta-feira","Sábado"];
 
-// ───────── relógio vivo no cabeçalho ─────────
-const diasSemana = [
-  'Domingo', 'Segunda-feira', 'Terça-feira',
-  'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado'
-];
+function tick() {
+  const d = now();
+  $clock.textContent =
+    `Hoje é ${dias[d.getDay()]}, ${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
+}
+tick();
+setInterval(tick, 1_000);
 
-const updateClock = () => {
-  const agora = nowInBR();
-  const h = String(agora.getHours()).padStart(2, '0');
-  const m = String(agora.getMinutes()).padStart(2, '0');
-  const s = String(agora.getSeconds()).padStart(2, '0');
-  document.getElementById('current-time').textContent =
-    `Hoje é ${diasSemana[agora.getDay()]}, ${h}:${m}:${s}`;
-};
+/* ───────── renderizador de reuniões ──────────────────────── */
+const $list = document.getElementById("meetings-container");
 
-updateClock();
-setInterval(updateClock, 1_000);
+function renderMeetings(meetings) {
+  $list.innerHTML = "";
 
-// ───────── utilidades ─────────
-const cleanName = (name) => name.replace(/^Reunião\s+/i, '').trim();
+  if (!meetings.length) {
+    $list.textContent = "Nenhuma reunião agora.";
+    return;
+  }
 
-const isHappeningNow = (meeting, now, weekday) =>
-  meeting.weekday === weekday &&
-  meeting.start <= now &&
-  meeting.end   >  now;
+  meetings.forEach(m => {
+    const card = document.createElement("div");
+    card.className = "meeting";
 
-// ───────── renderização ─────────
-const renderMeeting = (meeting) => {
-  const container = document.getElementById('meetings-container');
+    // título sem “Reunião ”
+    const a = document.createElement("a");
+    a.href   = m.link;
+    a.target = "_blank";
+    a.rel    = "noopener noreferrer";
+    a.textContent = m.name.replace(/^Reunião\s+/i, "").trim();
+    a.style.fontSize   = "1.8rem";
+    a.style.fontWeight = "bold";
 
-  const card   = document.createElement('div');
-  card.className = 'meeting';
+    const span = document.createElement("span");
+    span.style.marginLeft = "2rem";
+    span.textContent = `Das ${m.start} às ${m.end}`;
 
-  const linkEl = document.createElement('a');
-  linkEl.href      = meeting.link;
-  linkEl.target    = '_blank';
-  linkEl.rel       = 'noopener noreferrer';
+    card.appendChild(a);
+    card.appendChild(span);
+    $list.appendChild(card);
+  });
+}
 
-  const title  = document.createElement('h2');
-  title.textContent = cleanName(meeting.name);
-  linkEl.appendChild(title);
-
-  const timeEl = document.createElement('p');
-  timeEl.textContent = `Das ${meeting.start} às ${meeting.end}`;
-
-  card.appendChild(linkEl);
-  card.appendChild(timeEl);
-
-  container.appendChild(card);
-};
-
-// ───────── carga de dados ─────────
-const loadMeetings = async () => {
+/* ───────── lógica principal ──────────────────────────────── */
+async function loadMeetings() {
   try {
-    const resp = await fetch('meetings.json');
+    const resp = await fetch("meetings.json");
     const data = await resp.json();
 
-    const nowStr  = currentTime();
-    const weekday = currentWeekday();
+    const nowMin = toMin(now().toTimeString().slice(0, 8));
 
-    let currentMeetings = data.filter(m => isHappeningNow(m, nowStr, weekday));
+    // 1. filtra pelo dia e horário atuais + só com link Zoom
+    const happening = data.filter(m =>
+      m.link &&
+      m.weekday === weekday() &&
+      toMin(m.start) <= nowMin &&
+      toMin(m.end)   >  nowMin
+    );
 
-    // Ordena por hora inicial descrescente; empate → ordem aleatória
-    currentMeetings.sort((a, b) => {
-      if (a.start === b.start && a.end === b.end) return Math.random() - 0.5;
-      return b.start.localeCompare(a.start);
+    // 2. agrupa por intervalo igual e escolhe um randômico de cada grupo
+    const byRange = {};
+    happening.forEach(m => {
+      const key = `${m.start}-${m.end}`;
+      (byRange[key] ||= []).push(m);
     });
 
-    const container = document.getElementById('meetings-container');
-    container.innerHTML = '';
+    const chosen = Object.values(byRange).map(arr =>
+      arr[Math.floor(Math.random() * arr.length)]
+    );
 
-    if (!currentMeetings.length) {
-      container.textContent = 'Nenhuma reunião agora.';
-      return;
-    }
+    // 3. ordena por horário de início decrescente
+    chosen.sort((a, b) => toMin(b.start) - toMin(a.start));
 
-    currentMeetings.forEach(renderMeeting);
+    renderMeetings(chosen);
   } catch (err) {
-    console.error('❌ Erro ao carregar meetings.json:', err);
+    console.error("Erro ao carregar meetings.json", err);
+    $list.textContent = "Falha ao carregar dados.";
   }
-};
+}
+console.log("surf?");
+loadMeetings();
 
-// ───────── recarregar a cada meia‑hora exata ─────────
-const scheduleReload = () => {
-  const agora = nowInBR();
-  const ms =
-    ((30 - (agora.getMinutes() % 30)) * 60 * 1000) -
-    (agora.getSeconds() * 1000 + agora.getMilliseconds());
-  setTimeout(() => location.reload(), ms);
-};
-
-// ───────── bootstrap ─────────
-document.addEventListener('DOMContentLoaded', () => {
-  loadMeetings();
-  scheduleReload();
-});
+/* ───────── auto‑reload a cada :00 e :30 ──────────────────── */
+setInterval(() => {
+  const m = now().getMinutes();
+  if (m === 0 || m === 30) location.reload();
+}, 20_000);   // verifica a cada 20 s
