@@ -105,6 +105,7 @@ function schedulePageRefresh() {
         ((30 - (minutes % 30)) * 60 - seconds) * 1000;
 
     console.log(`🔄 Next refresh in ${msUntilNextRefresh / 1000 / 60} minutes`);
+    console.log("22:48");
 
     setTimeout(() => {
         console.log("🔄 Refreshing page...");
