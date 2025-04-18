@@ -59,24 +59,27 @@ const loadMeetings = async () => {
         console.log(`🕒 Current time: ${now}`);
         console.log(`📅 Current weekday: ${weekday}`);
 
-        const currentMeetings = data.filter(meeting => {
-            const match = (
-                meeting.weekday === weekday &&
-                meeting.start <= now &&
-                meeting.end > now
-            );
-
-            console.log(`➡️ Checking: ${meeting.name}`);
-            console.log(`   • start: ${meeting.start} | end: ${meeting.end}`);
-            console.log(`   • match: ${match}`);
-            return match;
-        });
+        const currentMeetings = data
+            .filter(meeting => {
+                const match = (
+                    meeting.weekday === weekday &&
+                    meeting.start <= now &&
+                    meeting.end > now
+                );
+                console.log(`➡️ Checking: ${meeting.name}`);
+                console.log(`   • start: ${meeting.start} | end: ${meeting.end}`);
+                console.log(`   • match: ${match}`);
+                return match;
+            })
+            .sort((a, b) => b.start.localeCompare(a.start));  // Descending order
 
         console.log(`🔍 Meetings happening now: ${currentMeetings.length}`);
 
+        const container = document.getElementById('meetings-container');
+        container.innerHTML = "";
+
         if (currentMeetings.length === 0) {
-            document.getElementById('meetings-container').textContent =
-                'Nenhuma reunião agora.';
+            container.textContent = 'Nenhuma reunião agora.';
             return;
         }
 
