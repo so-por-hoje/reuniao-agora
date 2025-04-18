@@ -1,133 +1,113 @@
-/* ------------------------------------------------------------------
-   app.js  ·  Virtual NA Meetings (Brazil)
-   ------------------------------------------------------------------
-   • Shows only meetings happening *right now* in the Brazil time‑zone
-     (America/Sao_Paulo), even if the visitor is in another zone.
-   • Works for meetings that cross midnight (e.g. 22:00 → 00:30).
-   • Sorts by start‑time DESC; when two meetings start+end the same,
-     their order is randomised on every load.
-   • Strips the word “Reunião ” from the visible title.
-   • Refreshes the whole page exactly on the hour and on the half‑hour.
-------------------------------------------------------------------- */
+// app.js
+// ===========================================
+//  Mostra reuniões Zoom que estão acontecendo
+//  agora, respeitando o fuso America/Sao_Paulo
+// ===========================================
 
-/* ---------- Helpers for Brazil time ---------------------------- */
-const brNow = () =>
-  new Date(new Date().toLocaleString('en-US', { timeZone: 'America/Sao_Paulo' }));
+// ───────── helpers de data/hora (fuso BR) ─────────
+const TZ = 'America/Sao_Paulo';
 
-const currentTimeStr   = () => brNow().toTimeString().slice(0, 8); // "HH:MM:SS"
-const currentWeekday   = () => brNow().getDay();                   // 0 = Sun … 6 = Sat
-
-/* ---------- Live clock on the page ----------------------------- */
-function tickClock() {
-  const dias = [
-    'Domingo', 'Segunda-feira', 'Terça-feira',
-    'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado'
-  ];
-  const now = brNow();
-  const pad = (n) => String(n).padStart(2, '0');
-  const texto = `Hoje é ${dias[now.getDay()]}, `
-              + `${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
-  document.getElementById('current-time').textContent = texto;
-}
-setInterval(tickClock, 1000);
-tickClock();
-
-/* ---------- Time helpers --------------------------------------- */
-const toMinutes = (t) => {
-  const [h, m, s] = t.split(':').map(Number);
-  return h * 60 + m + s / 60;
+const nowInBR = () => {
+  const iso = new Date().toLocaleString('en-US', { timeZone: TZ });
+  return new Date(iso);
 };
 
-const happensNow = (m) => {
-  if (m.weekday !== currentWeekday()) return false;
+const currentTime = () => nowInBR().toTimeString().slice(0, 8);     // hh:mm:ss
+const currentWeekday = () => nowInBR().getDay();                     // 0‑Dom … 6‑Sáb
 
-  const now   = toMinutes(currentTimeStr());
-  const start = toMinutes(m.start);
-  const end   = toMinutes(m.end);
+// ───────── relógio vivo no cabeçalho ─────────
+const diasSemana = [
+  'Domingo', 'Segunda-feira', 'Terça-feira',
+  'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado'
+];
 
-  // Normal slot
-  if (start < end) return start <= now && now < end;
-
-  // Cross‑midnight slot  (e.g. 23:00–01:00)
-  return now >= start || now < end;
+const updateClock = () => {
+  const agora = nowInBR();
+  const h = String(agora.getHours()).padStart(2, '0');
+  const m = String(agora.getMinutes()).padStart(2, '0');
+  const s = String(agora.getSeconds()).padStart(2, '0');
+  document.getElementById('current-time').textContent =
+    `Hoje é ${diasSemana[agora.getDay()]}, ${h}:${m}:${s}`;
 };
 
-/* ---------- DOM render ----------------------------------------- */
-const renderMeeting = (m) => {
-  const cont = document.getElementById('meetings-container');
+updateClock();
+setInterval(updateClock, 1_000);
 
-  const div = document.createElement('div');
-  div.classList.add('meeting');
+// ───────── utilidades ─────────
+const cleanName = (name) => name.replace(/^Reunião\s+/i, '').trim();
 
-  const h2 = document.createElement('h2');
-  const a  = document.createElement('a');
-  a.href   = m.link;
-  a.target = '_blank';
-  a.rel    = 'noopener noreferrer';
-  a.textContent = m.name.replace(/^Reunião\s+/i, '').trim();
-  a.style.textDecoration = 'none';
-  a.style.color = '#000';
-  h2.appendChild(a);
+const isHappeningNow = (meeting, now, weekday) =>
+  meeting.weekday === weekday &&
+  meeting.start <= now &&
+  meeting.end   >  now;
 
-  const pTime = document.createElement('p');
-  pTime.textContent = `Das ${m.start} às ${m.end}`;
+// ───────── renderização ─────────
+const renderMeeting = (meeting) => {
+  const container = document.getElementById('meetings-container');
 
-  div.appendChild(h2);
-  div.appendChild(pTime);
-  cont.appendChild(div);
+  const card   = document.createElement('div');
+  card.className = 'meeting';
+
+  const linkEl = document.createElement('a');
+  linkEl.href      = meeting.link;
+  linkEl.target    = '_blank';
+  linkEl.rel       = 'noopener noreferrer';
+
+  const title  = document.createElement('h2');
+  title.textContent = cleanName(meeting.name);
+  linkEl.appendChild(title);
+
+  const timeEl = document.createElement('p');
+  timeEl.textContent = `Das ${meeting.start} às ${meeting.end}`;
+
+  card.appendChild(linkEl);
+  card.appendChild(timeEl);
+
+  container.appendChild(card);
 };
 
-/* ---------- Main loader ---------------------------------------- */
+// ───────── carga de dados ─────────
 const loadMeetings = async () => {
   try {
-    const res  = await fetch('meetings.json', { cache: 'no-store' });
-    const data = await res.json();
+    const resp = await fetch('meetings.json');
+    const data = await resp.json();
 
-    const meetingsNow = data
-      .filter(happensNow)
-      .sort((a, b) => {
-        // DESC by start
-        if (a.start !== b.start) return b.start.localeCompare(a.start);
-        // Then DESC by end
-        if (a.end !== b.end)     return b.end.localeCompare(a.end);
-        // Same slot → shuffle
-        return Math.random() - 0.5;
-      });
+    const nowStr  = currentTime();
+    const weekday = currentWeekday();
 
-    const cont = document.getElementById('meetings-container');
-    cont.innerHTML = '';
+    let currentMeetings = data.filter(m => isHappeningNow(m, nowStr, weekday));
 
-    if (!meetingsNow.length) {
-      cont.textContent = 'Nenhuma reunião agora.';
+    // Ordena por hora inicial descrescente; empate → ordem aleatória
+    currentMeetings.sort((a, b) => {
+      if (a.start === b.start && a.end === b.end) return Math.random() - 0.5;
+      return b.start.localeCompare(a.start);
+    });
+
+    const container = document.getElementById('meetings-container');
+    container.innerHTML = '';
+
+    if (!currentMeetings.length) {
+      container.textContent = 'Nenhuma reunião agora.';
       return;
     }
 
-    meetingsNow.forEach(renderMeeting);
+    currentMeetings.forEach(renderMeeting);
   } catch (err) {
     console.error('❌ Erro ao carregar meetings.json:', err);
-    document.getElementById('meetings-container')
-            .textContent = 'Erro ao carregar dados.';
   }
 };
 
-/* ---------- Auto‑refresh at HH:00 and HH:30 -------------------- */
-const scheduleRefresh = () => {
-  const now = brNow();
-  const mins = now.getMinutes();
-  const secs = now.getSeconds();
-  const ms   = now.getMilliseconds();
-
-  // Minutes until next 0 or 30
-  const minsToNext = (30 - (mins % 30)) % 30;
-  const delay =
-    (minsToNext * 60 * 1000) - (secs * 1000) - ms || 30 * 60 * 1000;
-
-  console.log(`🔄 Próximo reload em ${(delay / 60000).toFixed(1)} min`);
-  setTimeout(() => location.reload(), delay);
+// ───────── recarregar a cada meia‑hora exata ─────────
+const scheduleReload = () => {
+  const agora = nowInBR();
+  const ms =
+    ((30 - (agora.getMinutes() % 30)) * 60 * 1000) -
+    (agora.getSeconds() * 1000 + agora.getMilliseconds());
+  setTimeout(() => location.reload(), ms);
 };
 
-/* ---------- Boot ------------------------------------------------ */
+// ───────── bootstrap ─────────
 document.addEventListener('DOMContentLoaded', () => {
   loadMeetings();
-  scheduleRefresh();
+  scheduleReload();
 });
