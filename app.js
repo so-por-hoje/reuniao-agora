@@ -49,39 +49,36 @@ const loadMeetings = async () => {
     try {
         const response = await fetch('meetings.json');
         const data = await response.json();
-        console.log('✅ JSON fetched successfully');
-        console.log(`📦 Loaded array with ${data.length} items`);
-        console.log('📰 First item in dataset:', data[0]);
 
         const now = currentTime();
         const weekday = currentWeekday();
 
-        console.log(`🕒 Current time: ${now}`);
-        console.log(`📅 Current weekday: ${weekday}`);
+        const currentMeetings = data.filter(meeting => {
+            return (
+                meeting.weekday === weekday &&
+                meeting.start <= now &&
+                meeting.end > now
+            );
+        });
 
-        const currentMeetings = data
-            .filter(meeting => {
-                const match = (
-                    meeting.weekday === weekday &&
-                    meeting.start <= now &&
-                    meeting.end > now
-                );
-                console.log(`➡️ Checking: ${meeting.name}`);
-                console.log(`   • start: ${meeting.start} | end: ${meeting.end}`);
-                console.log(`   • match: ${match}`);
-                return match;
-            })
-            .sort((a, b) => b.start.localeCompare(a.start));  // Descending order
-
-        console.log(`🔍 Meetings happening now: ${currentMeetings.length}`);
-
-        const container = document.getElementById('meetings-container');
-        container.innerHTML = "";
+        // Sort descending by start time, with random shuffle tie-breaker
+        currentMeetings.sort((a, b) => {
+            if (a.start !== b.start) return b.start.localeCompare(a.start);
+            if (a.end !== b.end) return b.end.localeCompare(a.end);
+            return Math.random() - 0.5; // shuffle if same start + end
+        });
 
         if (currentMeetings.length === 0) {
-            container.textContent = 'Nenhuma reunião agora.';
+            document.getElementById('meetings-container').textContent =
+                'Nenhuma reunião agora.';
             return;
         }
+
+        currentMeetings.forEach(renderMeeting);
+    } catch (error) {
+        console.error('❌ Failed to fetch or parse meetings.json:', error);
+    }
+};
 
         currentMeetings.forEach(renderMeeting);
     } catch (error) {
