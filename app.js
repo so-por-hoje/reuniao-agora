@@ -30,7 +30,7 @@ const renderMeeting = (meeting) => {
     nameLink.href = meeting.link;
     nameLink.target = "_blank";
     nameLink.rel = "noopener noreferrer";
-    nameLink.textContent = meeting.name;
+    nameLink.textContent = meeting.name.replace(/^Reunião\s+/i, '').trim();
     nameLink.style.textDecoration = "none";
     nameLink.style.color = "#000";
     name.appendChild(nameLink);
@@ -88,5 +88,22 @@ const loadMeetings = async () => {
         console.error('❌ Failed to fetch or parse meetings.json:', error);
     }
 };
+
+function schedulePageRefresh() {
+    const now = new Date();
+    const minutes = now.getMinutes();
+    const seconds = now.getSeconds();
+    const msUntilNextRefresh =
+        ((30 - (minutes % 30)) * 60 - seconds) * 1000;
+
+    console.log(`🔄 Next refresh in ${msUntilNextRefresh / 1000 / 60} minutes`);
+
+    setTimeout(() => {
+        console.log("🔄 Refreshing page...");
+        location.reload();
+    }, msUntilNextRefresh);
+}
+
+schedulePageRefresh();
 
 document.addEventListener('DOMContentLoaded', loadMeetings);
