@@ -81,11 +81,6 @@ const loadMeetings = async () => {
     }
 };
 
-        currentMeetings.forEach(renderMeeting);
-    } catch (error) {
-        console.error('❌ Failed to fetch or parse meetings.json:', error);
-    }
-};
 
 function schedulePageRefresh() {
     const now = new Date();
