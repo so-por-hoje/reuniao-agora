@@ -47,7 +47,25 @@ const loadMeetings = async () => {
         console.log(`📦 Loaded array with ${data.length} items`);
         console.log('📰 First item in dataset:', data[0]);
 
-        const currentMeetings = data.filter(isHappeningNow);
+        const now = currentTime();
+        const weekday = currentWeekday();
+
+        console.log(`🕒 Current time: ${now}`);
+        console.log(`📅 Current weekday: ${weekday}`);
+
+        const currentMeetings = data.filter(meeting => {
+            const match = (
+                meeting.weekday === weekday &&
+                meeting.start <= now &&
+                meeting.end > now
+            );
+
+            console.log(`➡️ Checking: ${meeting.name}`);
+            console.log(`   • start: ${meeting.start} | end: ${meeting.end}`);
+            console.log(`   • match: ${match}`);
+            return match;
+        });
+
         console.log(`🔍 Meetings happening now: ${currentMeetings.length}`);
 
         if (currentMeetings.length === 0) {
