@@ -35,18 +35,16 @@ const renderMeeting = (meeting) => {
     nameLink.style.color = "#000";
     name.appendChild(nameLink);
 
-    const platform = document.createElement('p');
-    platform.textContent = `Plataforma: ${meeting.platform}`;
-
     const time = document.createElement('p');
     time.textContent = `Das ${meeting.start} às ${meeting.end}`;
 
     div.appendChild(name);
-    div.appendChild(platform);
     div.appendChild(time);
 
     container.appendChild(div);
 };
+
+
 const loadMeetings = async () => {
     try {
         const response = await fetch('meetings.json');
