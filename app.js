@@ -1,123 +1,117 @@
-/* app.js ─ versão 2024‑04‑19 */
 // app.js
-function nowBrazil() {
-  const parts = new Intl.DateTimeFormat('en-CA', {
-    timeZone: 'America/Sao_Paulo',
-    hour12: false,
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
-    hour: '2-digit',
-    minute: '2-digit',
-    second: '2-digit'
-  })
-  .formatToParts(new Date())
-  .reduce((acc, part) => {
-    acc[part.type] = part.value;
-    return acc;
-  }, {});
 
-  return new Date(`${parts.year}-${parts.month}-${parts.day}T${parts.hour}:${parts.minute}:${parts.second}`);
-}
-/* ───────── helpers ────────────────────────────────────────── */
-const pad     = n => String(n).padStart(2, "0");
-const now = nowBrazil();             // usa hora do navegador
-const weekday = () => now().getDay();          // 0‑6   (dom=0)
-
-// "HH:MM:SS" → minutos desde 00:00
-const toMin = hms => {
-  const [h, m, s] = hms.split(":").map(Number);
-  return h * 60 + m + s / 60;
+const currentTime = () => {
+    const now = new Date();
+    return now.toTimeString().slice(0, 8);
 };
 
-/* ───────── relógio no topo ───────────────────────────────── */
-const $clock = document.getElementById("current-time");
-const dias   = ["Domingo","Segunda-feira","Terça-feira","Quarta-feira",
-                "Quinta-feira","Sexta-feira","Sábado"];
+const currentWeekday = () => {
+    const nowInBrazil = new Intl.DateTimeFormat("pt-BR", {
+        timeZone: "America/Sao_Paulo",
+        weekday: "short"
+    }).format(new Date());
 
-function tick() {
-  const d = now();
-  $clock.textContent =
-    `Hoje é ${dias[d.getDay()]}, ${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
-}
-tick();
-setInterval(tick, 1_000);
+    const map = {
+        dom: 0,
+        seg: 1,
+        ter: 2,
+        qua: 3,
+        qui: 4,
+        sex: 5,
+        sáb: 6,
+        sab: 6
+    };
 
-/* ───────── renderizador de reuniões ──────────────────────── */
-const $list = document.getElementById("meetings-container");
+    return map[nowInBrazil.toLowerCase()] ?? new Date().getDay(); // fallback if unknown
+};
 
-function renderMeetings(meetings) {
-  $list.innerHTML = "";
-
-  if (!meetings.length) {
-    $list.textContent = "Nenhuma reunião agora.";
-    return;
-  }
-
-  meetings.forEach(m => {
-    const card = document.createElement("div");
-    card.className = "meeting";
-
-    // título sem “Reunião ”
-    const a = document.createElement("a");
-    a.href   = m.link;
-    a.target = "_blank";
-    a.rel    = "noopener noreferrer";
-    a.textContent = m.name.replace(/^Reunião\s+/i, "").trim();
-    a.style.fontSize   = "1.8rem";
-    a.style.fontWeight = "bold";
-
-    const span = document.createElement("span");
-    span.style.marginLeft = "2rem";
-    span.textContent = `Das ${m.start} às ${m.end}`;
-
-    card.appendChild(a);
-    card.appendChild(span);
-    $list.appendChild(card);
-  });
-}
-
-/* ───────── lógica principal ──────────────────────────────── */
-async function loadMeetings() {
-  try {
-    const resp = await fetch("meetings.json");
-    const data = await resp.json();
-
-    const nowMin = toMin(now().toTimeString().slice(0, 8));
-
-    // 1. filtra pelo dia e horário atuais + só com link Zoom
-    const happening = data.filter(m =>
-      m.link &&
-      m.weekday === weekday() &&
-      toMin(m.start) <= nowMin &&
-      toMin(m.end)   >  nowMin
+const isHappeningNow = (meeting) => {
+    const now = currentTime();
+    return (
+        meeting.weekday === currentWeekday() &&
+        meeting.start <= now &&
+        meeting.end > now
     );
+};
 
-    // 2. agrupa por intervalo igual e escolhe um randômico de cada grupo
-    const byRange = {};
-    happening.forEach(m => {
-      const key = `${m.start}-${m.end}`;
-      (byRange[key] ||= []).push(m);
-    });
+const renderMeeting = (meeting) => {
+    const container = document.getElementById('meetings-container');
 
-    const chosen = Object.values(byRange).map(arr =>
-      arr[Math.floor(Math.random() * arr.length)]
-    );
+    const div = document.createElement('div');
+    div.classList.add('meeting');
 
-    // 3. ordena por horário de início decrescente
-    chosen.sort((a, b) => toMin(b.start) - toMin(a.start));
+    const name = document.createElement('h2');
+    const nameLink = document.createElement('a');
+    nameLink.href = meeting.link;
+    nameLink.target = "_blank";
+    nameLink.rel = "noopener noreferrer";
+    nameLink.textContent = meeting.name.replace(/^Reunião\s+/i, '').trim();
+    nameLink.style.textDecoration = "none";
+    nameLink.style.color = "#000";
+    name.appendChild(nameLink);
 
-    renderMeetings(chosen);
-  } catch (err) {
-    console.error("Erro ao carregar meetings.json", err);
-    $list.textContent = "Falha ao carregar dados.";
-  }
+    const time = document.createElement('p');
+    time.textContent = `Das ${meeting.start} às ${meeting.end}`;
+
+    div.appendChild(name);
+    div.appendChild(time);
+
+    container.appendChild(div);
+};
+
+
+const loadMeetings = async () => {
+    try {
+        const response = await fetch('meetings.json');
+        console.log("meetings.json loaded");
+        const data = await response.json();
+
+        const now = currentTime();
+        const weekday = currentWeekday();
+
+        const currentMeetings = data.filter(meeting => {
+            return (
+                meeting.weekday === weekday &&
+                meeting.start <= now &&
+                meeting.end > now
+            );
+        });
+
+        // Sort descending by start time, with random shuffle tie-breaker
+        currentMeetings.sort((a, b) => {
+            if (a.start !== b.start) return b.start.localeCompare(a.start);
+            if (a.end !== b.end) return b.end.localeCompare(a.end);
+            return Math.random() - 0.5; // shuffle if same start + end
+        });
+
+        if (currentMeetings.length === 0) {
+            document.getElementById('meetings-container').textContent =
+                'Nenhuma reunião agora.';
+            return;
+        }
+
+        currentMeetings.forEach(renderMeeting);
+    } catch (error) {
+        console.error('❌ Failed to fetch or parse meetings.json:', error);
+    }
+};
+
+
+function schedulePageRefresh() {
+    const now = new Date();
+    const minutes = now.getMinutes();
+    const seconds = now.getSeconds();
+    const msUntilNextRefresh =
+        ((30 - (minutes % 30)) * 60 - seconds) * 1000;
+
+    console.log(`🔄 Next refresh in ${msUntilNextRefresh / 1000 / 60} minutes`);
+
+    setTimeout(() => {
+        console.log("🔄 Refreshing page...");
+        location.reload();
+    }, msUntilNextRefresh);
 }
-console.log("surf?");
-loadMeetings();
 
-/* ───────── auto‑reload a cada :00 e :30 ──────────────────── */
-setInterval(() => {
-  const m = now().getMinutes();
-  if (m === 0 || m === 30) location.reload();
-}, 20_000);   // verifica a cada 20 s
+schedulePageRefresh();
+
+document.addEventListener('DOMContentLoaded', loadMeetings);
