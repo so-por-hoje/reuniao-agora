@@ -1,89 +1,33 @@
-// app.js
+// script.js
 
-const currentTime = () => {
-    const now = new Date();
-    return now.toTimeString().slice(0, 8);
-};
+document.addEventListener('DOMContentLoaded', () => {
+  const url = 'https://so-por-hoje.github.io/reuniao-agora/meetings.json';
 
-const currentWeekday = () => {
-    // Sunday = 0, Monday = 1, ..., Saturday = 6
-    return new Date().getDay();
-};
+  fetch(url)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      if (!data || typeof data !== 'object') {
+        throw new Error('Invalid JSON format');
+      }
 
-const isHappeningNow = (meeting) => {
-    const now = currentTime();
-    return (
-        meeting.weekday === currentWeekday() &&
-        meeting.start <= now &&
-        meeting.end > now
-    );
-};
-
-const renderMeeting = (meeting) => {
-    const container = document.getElementById('meetings-container');
-
-    const div = document.createElement('div');
-    div.classList.add('meeting');
-
-    const name = document.createElement('h2');
-    const nameLink = document.createElement('a');
-    nameLink.href = meeting.link;
-    nameLink.target = "_blank";
-    nameLink.rel = "noopener noreferrer";
-    nameLink.textContent = meeting.name;
-    nameLink.style.textDecoration = "none";
-    nameLink.style.color = "#000";
-    name.appendChild(nameLink);
-
-    const time = document.createElement('p');
-    time.textContent = `Das ${meeting.start} às ${meeting.end}`;
-
-    div.appendChild(name);
-    div.appendChild(time);
-
-    container.appendChild(div);
-};
-
-
-const loadMeetings = async () => {
-    try {
-        const response = await fetch('meetings.json');
-        const data = await response.json();
-        console.log('✅ JSON fetched successfully');
+      console.log('✅ JSON fetched successfully');
+      
+      if (Array.isArray(data)) {
         console.log(`📦 Loaded array with ${data.length} items`);
-        console.log('📰 First item in dataset:', data[0]);
+      } else {
+        console.log('📂 Loaded object with keys:', Object.keys(data));
+      }
 
-        const now = currentTime();
-        const weekday = currentWeekday();
-
-        console.log(`🕒 Current time: ${now}`);
-        console.log(`📅 Current weekday: ${weekday}`);
-
-        const currentMeetings = data.filter(meeting => {
-            const match = (
-                meeting.weekday === weekday &&
-                meeting.start <= now &&
-                meeting.end > now
-            );
-
-            console.log(`➡️ Checking: ${meeting.name}`);
-            console.log(`   • start: ${meeting.start} | end: ${meeting.end}`);
-            console.log(`   • match: ${match}`);
-            return match;
-        });
-
-        console.log(`🔍 Meetings happening now: ${currentMeetings.length}`);
-
-        if (currentMeetings.length === 0) {
-            document.getElementById('meetings-container').textContent =
-                'Nenhuma reunião agora.';
-            return;
-        }
-
-        currentMeetings.forEach(renderMeeting);
-    } catch (error) {
-        console.error('❌ Failed to fetch or parse meetings.json:', error);
-    }
-};
-
-document.addEventListener('DOMContentLoaded', loadMeetings);
+      // Example: print first entry
+      const firstEntry = Array.isArray(data) ? data[0] : Object.values(data)[0];
+      console.log('🧾 First item in dataset:', firstEntry);
+    })
+    .catch(error => {
+      console.error('❌ Error fetching or processing JSON:', error);
+    });
+});
