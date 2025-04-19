@@ -30,7 +30,7 @@ const renderMeeting = (meeting) => {
     nameLink.href = meeting.link;
     nameLink.target = "_blank";
     nameLink.rel = "noopener noreferrer";
-    nameLink.textContent = meeting.name.replace(/^Reunião\s+/i, '').trim();
+    nameLink.textContent = meeting.name;
     nameLink.style.textDecoration = "none";
     nameLink.style.color = "#000";
     name.appendChild(nameLink);
@@ -48,26 +48,31 @@ const renderMeeting = (meeting) => {
 const loadMeetings = async () => {
     try {
         const response = await fetch('meetings.json');
-        console.log("meetings.json loaded");
         const data = await response.json();
+        console.log('✅ JSON fetched successfully');
+        console.log(`📦 Loaded array with ${data.length} items`);
+        console.log('📰 First item in dataset:', data[0]);
 
         const now = currentTime();
         const weekday = currentWeekday();
 
+        console.log(`🕒 Current time: ${now}`);
+        console.log(`📅 Current weekday: ${weekday}`);
+
         const currentMeetings = data.filter(meeting => {
-            return (
+            const match = (
                 meeting.weekday === weekday &&
                 meeting.start <= now &&
                 meeting.end > now
             );
+
+            console.log(`➡️ Checking: ${meeting.name}`);
+            console.log(`   • start: ${meeting.start} | end: ${meeting.end}`);
+            console.log(`   • match: ${match}`);
+            return match;
         });
 
-        // Sort descending by start time, with random shuffle tie-breaker
-        currentMeetings.sort((a, b) => {
-            if (a.start !== b.start) return b.start.localeCompare(a.start);
-            if (a.end !== b.end) return b.end.localeCompare(a.end);
-            return Math.random() - 0.5; // shuffle if same start + end
-        });
+        console.log(`🔍 Meetings happening now: ${currentMeetings.length}`);
 
         if (currentMeetings.length === 0) {
             document.getElementById('meetings-container').textContent =
@@ -80,28 +85,5 @@ const loadMeetings = async () => {
         console.error('❌ Failed to fetch or parse meetings.json:', error);
     }
 };
-
-        currentMeetings.forEach(renderMeeting);
-    } catch (error) {
-        console.error('❌ Failed to fetch or parse meetings.json:', error);
-    }
-};
-
-function schedulePageRefresh() {
-    const now = new Date();
-    const minutes = now.getMinutes();
-    const seconds = now.getSeconds();
-    const msUntilNextRefresh =
-        ((30 - (minutes % 30)) * 60 - seconds) * 1000;
-
-    console.log(`🔄 Next refresh in ${msUntilNextRefresh / 1000 / 60} minutes`);
-
-    setTimeout(() => {
-        console.log("🔄 Refreshing page...");
-        location.reload();
-    }, msUntilNextRefresh);
-}
-
-schedulePageRefresh();
 
 document.addEventListener('DOMContentLoaded', loadMeetings);
