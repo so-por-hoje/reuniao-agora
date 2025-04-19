@@ -6,23 +6,8 @@ const currentTime = () => {
 };
 
 const currentWeekday = () => {
-    const nowInBrazil = new Intl.DateTimeFormat("pt-BR", {
-        timeZone: "America/Sao_Paulo",
-        weekday: "short"
-    }).format(new Date());
-
-    const map = {
-        dom: 0,
-        seg: 1,
-        ter: 2,
-        qua: 3,
-        qui: 4,
-        sex: 5,
-        sáb: 6,
-        sab: 6
-    };
-
-    return map[nowInBrazil.toLowerCase()] ?? new Date().getDay(); // fallback if unknown
+    // Sunday = 0, Monday = 1, ..., Saturday = 6
+    return new Date().getDay();
 };
 
 const isHappeningNow = (meeting) => {
@@ -96,6 +81,11 @@ const loadMeetings = async () => {
     }
 };
 
+        currentMeetings.forEach(renderMeeting);
+    } catch (error) {
+        console.error('❌ Failed to fetch or parse meetings.json:', error);
+    }
+};
 
 function schedulePageRefresh() {
     const now = new Date();
